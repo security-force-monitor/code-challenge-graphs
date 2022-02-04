@@ -1,0 +1,401 @@
+unit:id:admin	unit:name	unit:classification	unit:relation_type	unit:related_unit_id:admin	unit:related_unit	unit:related_unit_class	unit:related_unit_first_cited_date	unit:related_unit_first_cited_date_start	unit:related_unit_last_cited_date	unit:related_unit_open
+1a64b83d-7767-4c6d-9474-6ee4ada1a8d8	Comité National pour le Salut du Peuple	Government;Military;Police								
+4fac1035-4181-4b84-bb0b-dc08d840d631	Président de la République	Government;Military;Police								
+b2b852b4-00bc-42c7-a59e-05cf098ad512	1 Bataillon Burkinabè	Peacekeeping	child	e1129681-d051-406c-b054-d2539be3ece5	Secteur Ouest	Command	2015-08-04	N		N
+054a83ea-b8c0-4d8c-a434-cd77323baea7	1 Bataillon de l'armée reconsituée	Army;Military	child	07f598aa-5bde-48cd-913b-9b0b59d7347e	7 Région Militaire	Command				
+786a3fc2-a747-4d4c-9794-c8bdd38db379	"1 Groupement Tactique Interarmés ""Waraba"""	Military	child	cd3fb3e8-355c-47c4-a47d-9e1ee1cabfc9	3 Région Militaire	Command	2015-02-23	N		Y
+505d162a-fcea-4490-9cd9-530c9f9549e3	1 Nigerian Battalion (AFISMA)	Peacekeeping	child	a2f224b0-21fb-4ee9-8139-50c781a0d684	African-led International Support Mission in Mali	Command	2013-01-	Y	2013-07-02	E
+b4db1ecf-a93b-45a7-a3a1-9f51a50a4b51	1 Région Aérienne	Air Force;Military	child	a842298f-3da3-4c87-a994-0ef8c98a5c36	Armée de l’Air	Command	2016-08-16	N		Y
+7214a59a-43b5-4406-9a2f-42487a7ffc2a	1 Région Militaire	Army;Military	child	e2de48e7-59e7-4a1d-922e-2859d3c77151	Armée de Terre	Command	2009-03-04	N	2018-12-22	Y
+3405f69a-ea76-4454-baf6-e5fae79958ca	112 Compagnie d’Infanterie Motorisé	Army;Military	child	6393aa1d-66d6-44c9-b41a-2038ed94a7e0	Unknown Régiment (1 Région Militaire)	Command	2006-09-01	N		N
+cd8c7172-6a93-4080-911e-b9b46eeb75a6	12 Régiment Mixte	Military	child	edc10df6-4aac-4077-96d1-e66ff37500f1	Unknown Région Militaire	Command	2008	N	2010	N
+643d2b34-2fb1-4baa-948b-6f8c4dd4048c	121 Compagnie de Commandement d’Appui et de Services	Army;Military	child	f71fe3e9-a1d4-40de-a2d9-b3b619d510e9	Unknown Régiment	Command	1997	N		N
+f45f059f-b32e-4cd1-a58d-63cfdf99cf49	123 Escadron de Reconnaissance	Army;Military	child	f71fe3e9-a1d4-40de-a2d9-b3b619d510e9	Unknown Régiment	Command				N
+5ce22109-a762-4cd6-9dc1-877f5e8d79f7	13 Régiment Mixte	Army;Military	child	7214a59a-43b5-4406-9a2f-42487a7ffc2a	1 Région Militaire	Command	2003-02-15	N	2020-04-17	Y
+1818526c-d621-4428-842d-8222f153026c	131 Compagnie de Commandement d’Appui et de Services	Army;Military	child	6393aa1d-66d6-44c9-b41a-2038ed94a7e0	Unknown Régiment (1 Région Militaire)	Command	2012	N	2014-08-18	Y
+a6a57950-ef8f-4a83-a921-e3b996110950	132 Compagnie d’Infanterie Motorisé	Military	child	5ce22109-a762-4cd6-9dc1-877f5e8d79f7	13 Régiment Mixte	Command	2017-11-22	N		Y
+1ebcea4f-56c6-4b73-97a7-583508bf1183	133 Escadron de Reconnaissance	Army;Military	child	6393aa1d-66d6-44c9-b41a-2038ed94a7e0	Unknown Régiment (1 Région Militaire)	Command	2002	N	2020	Y
+76241c49-c29a-4734-a212-99d05a383819	134 Escadron de Reconnaissance	Army;Military	child	6393aa1d-66d6-44c9-b41a-2038ed94a7e0	Unknown Régiment (1 Région Militaire)	Command	1997	N		N
+d4c561e6-7145-4aff-a395-73805a7931be	135 Compagnie de Commandement d’Appui et de Services	Army;Military	child	6393aa1d-66d6-44c9-b41a-2038ed94a7e0	Unknown Régiment (1 Région Militaire)	Command	2018-07-26	N		Y
+1070e746-3e87-4e9d-9b0f-296e0905d980	14 Régiment Mixte	Military	child	7214a59a-43b5-4406-9a2f-42487a7ffc2a	1 Région Militaire	Command	2020-01-29	N		Y
+dbbaad64-2ee3-4769-a0bf-25b87eb18537	142 Compagnie d’Infanterie Motorisé	Military	child	6393aa1d-66d6-44c9-b41a-2038ed94a7e0	Unknown Régiment (1 Région Militaire)	Command	2010-06-15	N	2010-07-27	N
+10acfd19-a17d-4c74-8ece-4ade779da13f	2 Bataillon Burkinabè	Peacekeeping	child	e1129681-d051-406c-b054-d2539be3ece5	Secteur Ouest	Command	2015-07	Y		N
+d4da4adf-7e19-457c-9527-9a3741a36878	"2 Groupement Tactique Interarmés ""Elou"""	Army;Military	child	7e0d5691-9ffa-4058-8dbb-ed0473e8329d	6 Région Militaire	Command	2018	N		N
+d71d8a04-62bc-449c-b154-654bea2b9699	2 Groupement Territoriale (Garde Nationale)	National Guard;Military	child	af7888d6-e892-417b-8d09-b197ab071d99	Garde Nationale	Command	2017-02-22	N	2019-12-31	Y
+d0d3e29a-9338-4ba0-b41c-2b408054fa91	2 Région Aérienne	Air Force;Military	child	a842298f-3da3-4c87-a994-0ef8c98a5c36	Armée de l’Air	Command	2020-04-11	N		Y
+48713a8a-cbf0-494f-a0e6-6902e9d6db50	2 Région Militaire	Army;Military	child	e2de48e7-59e7-4a1d-922e-2859d3c77151	Armée de Terre	Command	2009-03-04	Y	2018-05-09	Y
+a072692f-0853-440c-8f33-045bfcce3d75	21 Régiment Mixte	Army;Military	child	48713a8a-cbf0-494f-a0e6-6902e9d6db50	2 Région Militaire	Command	2018-06-26	N		Y
+cea22704-931e-4ffb-85c4-0971acb67b58	211 Compagnie de Commandement d’Appui et de Services	Army;Military	child	1e5e4bc9-1d35-438e-89fc-17fb24d38aa4	Unknown Régiment (2 Région Militaire)	Command	1993-08-01	N	2017-05-02	Y
+6fae8d8e-c1f5-41fc-95c3-e88ba49fe800	212 Compagnie d’Infanterie Motorisée	Army;Military	child	1e5e4bc9-1d35-438e-89fc-17fb24d38aa4	Unknown Régiment (2 Région Militaire)	Command	1994-11-28	N	2019-05-10	N
+3da471b0-23bb-476e-a32d-e1c9d1e2f0ae	213 Compagnie d’Infanterie Motorisée	Military	child	1e5e4bc9-1d35-438e-89fc-17fb24d38aa4	Unknown Régiment (2 Région Militaire)	Command	2018-06-26	N		Y
+6db51a38-6a12-424b-bf38-aab22e20927b	213 Compagnie d’infanterie Motorisée	Army;Military	child	1e5e4bc9-1d35-438e-89fc-17fb24d38aa4	Unknown Régiment (2 Région Militaire)	Command	2017-05-02	N		N
+c96dfe81-feaa-49c7-b9ca-bcdbc90bd3fe	214 Escadron de Reconnaissance	Army;Military	child	1e5e4bc9-1d35-438e-89fc-17fb24d38aa4	Unknown Régiment (2 Région Militaire)	Command	2007-03-13	N		Y
+67b8bc13-1837-4eb5-8053-5e4f1c262380	215 Bataillon d'Artillerie	Military	child	1e5e4bc9-1d35-438e-89fc-17fb24d38aa4	Unknown Régiment (2 Région Militaire)	Command	2017-05-02	N		Y
+8eb2d552-a522-4ffe-b450-3eee1d24c077	216 Compagnie de Soutien et d’Instruction	Army;Military	child	1e5e4bc9-1d35-438e-89fc-17fb24d38aa4	Unknown Régiment (2 Région Militaire)	Command	2007	N	2017-05-05	N
+77daa8f3-65a6-42c0-bb78-59375eeab4eb	217 Compagnie de Soutien	Army;Military	child	1e5e4bc9-1d35-438e-89fc-17fb24d38aa4	Unknown Régiment (2 Région Militaire)	Command	2006-01-15	N	2017-05-02	N
+6c56f047-d989-4965-b28e-f28a4e437168	22 Régiment	Army;Military	child	48713a8a-cbf0-494f-a0e6-6902e9d6db50	2 Région Militaire	Command	2012-06-01	N		Y
+59ffb1e4-a6e7-4b30-8f3a-e88844b767b3	221 Compagnie de Commandement d’Appui et de Services	Military	child	1e5e4bc9-1d35-438e-89fc-17fb24d38aa4	Unknown Régiment (2 Région Militaire)	Command	2017-05-02	N		Y
+4794e5b7-8ef5-4e86-b21d-cb8e442348b9	222 Compagnie	Army;Military	child	1e5e4bc9-1d35-438e-89fc-17fb24d38aa4	Unknown Régiment (2 Région Militaire)	Command	2016-07-04	N		Y
+07738236-6c57-425f-9801-4a48abeca543	224 Escadron de Reconnaissance	Army;Military	child	f71fe3e9-a1d4-40de-a2d9-b3b619d510e9	Unknown Régiment	Command	2010-11-01	N		Y
+dab6d79d-6a8f-49b8-9e98-7c5a68e7aba6	26 Bataillon des Travaux du Génie	Military	child	48713a8a-cbf0-494f-a0e6-6902e9d6db50	2 Région Militaire	Command	2017-05-05	N	2017-11-25	Y
+c5f9d223-1fde-4cbc-a2f2-818272227c23	261 Compagnie de Commandement et des Services du Génie	Military	child	dab6d79d-6a8f-49b8-9e98-7c5a68e7aba6	26 Bataillon des Travaux du Génie	Command	2017-05-02	N	2017-05-05	Y
+78658768-401e-4ff5-8501-925cf99d819b	"3 Groupement Tactique Interarmés ""Sigui"""	Military	child	3773c0fe-2026-4d10-917e-da37e675c58e	4 Région Militaire	Command	2017-11-26	N		Y
+cd3fb3e8-355c-47c4-a47d-9e1ee1cabfc9	3 Région Militaire	Army;Military	child	e2de48e7-59e7-4a1d-922e-2859d3c77151	Armée de Terre	Command	2009-03-04	N	2018-07-12	Y
+1abfbbe6-86ab-4bed-9861-1b6a80cd8bce	31 Régiment de commandement et de service	Army;Military	child	cd3fb3e8-355c-47c4-a47d-9e1ee1cabfc9	3 Région Militaire	Command	2016-08-31	N	2018-07-12	Y
+34730d5b-30a6-4067-a24d-680c59ed1c6b	311 Compagnie de Commandement d’Appui et de Services	Army;Military	child	1abfbbe6-86ab-4bed-9861-1b6a80cd8bce	31 Régiment de commandement et de service	Command	2014-08-18	N	2014-08-21	Y
+7f6f245d-7922-4596-8950-8c15dc7c996b	312 Compagnie des Transmissions des Armées	Army;Military	child	3637ab1e-85a9-409b-b1a8-fcb54a8ecee6	Unknown Régiment (3 Région Militaire)	Command	2014-08-18	N		Y
+fd88c5df-e556-4caa-98c7-753f9614b6e0	313 Batterie de Soutien	Army;Military	child	3637ab1e-85a9-409b-b1a8-fcb54a8ecee6	Unknown Régiment (3 Région Militaire)	Command	2015-08-03	N	2016-06-10	Y
+f1be0f5e-04e9-4483-8024-5fbc13f0b433	314 Compagnie d’Infanterie Motorisée	Army;Military	child	f71fe3e9-a1d4-40de-a2d9-b3b619d510e9	Unknown Régiment	Command	2009-04-14	N	2010-10-14	Y
+aaeb6dc4-9011-42a5-b392-262ea5faff59	32 Régiment d’Infanterie Motorisée	Army;Military	child	cd3fb3e8-355c-47c4-a47d-9e1ee1cabfc9	3 Région Militaire	Command	2016-08-31	N	2018-07-12	Y
+df66db72-9a9c-417f-b099-49e1a1bfbb67	321 Compagnie de Commandement d’Appui et de Services	Army;Military	child	3637ab1e-85a9-409b-b1a8-fcb54a8ecee6	Unknown Régiment (3 Région Militaire)	Command	2020-09-03	N		N
+93369e49-12f4-468d-ace7-60f25e7f9117	322 Compagnie d’Infanterie Motorisée	Army;Military	child	3637ab1e-85a9-409b-b1a8-fcb54a8ecee6	Unknown Régiment (3 Région Militaire)	Command	1994	Y	2015-02-16	Y
+92d27c42-6284-405f-8f5c-9c49df459ffa	323 Compagnie de Soutien	Army;Military	child	3637ab1e-85a9-409b-b1a8-fcb54a8ecee6	Unknown Régiment (3 Région Militaire)	Command	2019	N		N
+45bb4fae-5f2d-4790-b512-955d43cfb9a6	324 Compagnie d’Infanterie Motorisée	Army;Military	child	aaeb6dc4-9011-42a5-b392-262ea5faff59	32 Régiment d’Infanterie Motorisée	Command	2020-12-19	N		N
+4bd398c3-5c6f-4caf-80f5-0dc669a544ee	33 Régiment des Commandos Parachutistes	Army;Military	child	cd3fb3e8-355c-47c4-a47d-9e1ee1cabfc9	3 Région Militaire	Command	2013-03-27	N	2020-01-24	Y
+15532ecc-0de0-46b4-9439-376e74de8255	331 Compagnie des Commandos Parachutistes	Army;Military	child	4bd398c3-5c6f-4caf-80f5-0dc669a544ee	33 Régiment des Commandos Parachutistes	Command	2016-01-20	N	2020-01-24	Y
+e602a49c-3862-4e11-9a45-5834d124b51d	332 Compagnie des Commandos Parachutistes	Army;Military	child	4bd398c3-5c6f-4caf-80f5-0dc669a544ee	33 Régiment des Commandos Parachutistes	Command	2016-01-20	N	2020-01-24	Y
+c9cb58c3-8d45-4796-bd47-1c4b2147465b	333 Compagnie des Commandos Parachutistes	Army;Military	child	4bd398c3-5c6f-4caf-80f5-0dc669a544ee	33 Régiment des Commandos Parachutistes	Command	2020-01-24	N		Y
+3246d8be-5a93-4459-bfd2-077695725484	334 Compagnie des Commandos Instruction de la Troupe Aéroportée	Army;Military	child	4bd398c3-5c6f-4caf-80f5-0dc669a544ee	33 Régiment des Commandos Parachutistes	Command	2020-01-24	N		Y
+b581cd24-6cf7-4443-b6e7-fdbd5e09129d	34 Bataillon du Génie Militaire	Army;Military	child	cd3fb3e8-355c-47c4-a47d-9e1ee1cabfc9	3 Région Militaire	Command	2014-08-18	N	2014-08-21	Y
+7706253d-8b20-4137-a99a-7208854c9d44	341 Compagnie de Commandement des Services Techniques du Génie	Army;Military	child	b581cd24-6cf7-4443-b6e7-fdbd5e09129d	34 Bataillon du Génie Militaire	Command	2014-08-18	N	2014-08-21	Y
+963b4dd4-247a-42cf-934f-5331f8662905	342 Compagnie de Franchissement du Génie	Army;Military	child	3637ab1e-85a9-409b-b1a8-fcb54a8ecee6	Unknown Régiment (3 Région Militaire)	Command	2020-09-03	N		N
+33669c5a-392b-4842-b83f-b6551d2e6a39	343 Compagnie des Pontons du Génie	Army;Military	child	b581cd24-6cf7-4443-b6e7-fdbd5e09129d	34 Bataillon du Génie Militaire	Command	2014-08-18	N	2014-08-21	Y
+7402d8bb-1e71-4c8e-a9e0-748cfa7aa9eb	35 Régiment Blindé	Army;Military	child	cd3fb3e8-355c-47c4-a47d-9e1ee1cabfc9	3 Région Militaire	Command	2004-07-28	N	2018-07-12	Y
+5f9458e5-692f-4141-af5c-485e14a68567	351 Escadron de Reconnaissance	Army;Military	child	7402d8bb-1e71-4c8e-a9e0-748cfa7aa9eb	35 Régiment Blindé	Command	2004-07-28	N	2005-06-11	Y
+7f82b137-2381-4fa0-84da-0be6626ea471	353 Compagnie de Commandement d’Appui et de Services	Army;Military	child	3637ab1e-85a9-409b-b1a8-fcb54a8ecee6	Unknown Régiment (3 Région Militaire)	Command	1998	N		Y
+ed047b0b-6225-42d1-a583-eeb061817187	36 Régiment d’Artillerie	Army;Military	child	cd3fb3e8-355c-47c4-a47d-9e1ee1cabfc9	3 Région Militaire	Command	2016-08-31	N	2018-07-12	Y
+bb85c7c0-a72b-4231-90dc-d5a72583ba1e	362 Bataillon d'Artillerie	Army;Military	child	ed047b0b-6225-42d1-a583-eeb061817187	36 Régiment d’Artillerie	Command	2004-08-23	N	2005-02-25	Y
+48a8e3e4-c1b4-4c44-be30-8f225412b25a	363 Bataillon d'Artillerie	Army;Military	child	ed047b0b-6225-42d1-a583-eeb061817187	36 Régiment d’Artillerie	Command	2011-02-07	N	2011-03-11	Y
+a3759141-03b6-4529-b60a-d89ad778d968	37 Régiment des Transports et d’Entretien	Army;Military	child	cd3fb3e8-355c-47c4-a47d-9e1ee1cabfc9	3 Région Militaire	Command	2016-08-31	N	2018-07-12	Y
+3b3f8c87-363e-42eb-a885-38deb31ba5ee	371 Compagnie de Commandement d’Appui et de Services	Army;Military	child	f71fe3e9-a1d4-40de-a2d9-b3b619d510e9	Unknown Régiment	Command	2016-06-02	N	2016-09-23	Y
+27b5dae2-5c0c-4f82-823f-39cc81155e90	"4 Groupement Tactique Interarmés ""Balanzan"""	Military	child	48713a8a-cbf0-494f-a0e6-6902e9d6db50	2 Région Militaire	Command	2015-02-23	N		Y
+3773c0fe-2026-4d10-917e-da37e675c58e	4 Région Militaire	Army;Military	child	e2de48e7-59e7-4a1d-922e-2859d3c77151	Armée de Terre	Command	2009-03-04	Y	2018-11-05	Y
+1be55c9e-7e2f-47f3-a14c-9a38d08d14b1	412 Compagnie d’Infanterie Motorisé	Army;Military	child	39853f07-8559-46d0-98e9-d58ebbc06475	Unknown Régiment (4 Région Militaire)	Command	1994	N	2011-06-17	Y
+d613de7a-22b2-4ed3-bb77-543e8419f74c	414 Bataillon d'Artillerie	Army;Military	child	f71fe3e9-a1d4-40de-a2d9-b3b619d510e9	Unknown Régiment	Command	2011-04-25	N	2011-04-29	Y
+7f6548b6-ebef-4fe7-9f57-b6bd0158e522	42 Régiment	Army;Military	child	3773c0fe-2026-4d10-917e-da37e675c58e	4 Région Militaire	Command	2016-07-04	N		Y
+b9aa4c02-d270-4b78-9788-3ee263a2199e	422 Compagnie d’Infanterie Motorisé	Army;Military	child	f71fe3e9-a1d4-40de-a2d9-b3b619d510e9	Unknown Régiment	Command	2020-05-11	N		Y
+ff1a0ce4-bb98-4bf1-83c6-a8d483ae88db	"5 Groupement Tactique Interarmés ""Débo"""	Military	child	7e0d5691-9ffa-4058-8dbb-ed0473e8329d	6 Région Militaire	Command	2015-02-23	N		Y
+a4eee7cc-b4f3-4e91-be52-885367f6409f	5 Région Militaire	Army;Military	child	e2de48e7-59e7-4a1d-922e-2859d3c77151	Armée de Terre	Command	2009-03-04	N	2019-01-24	Y
+25aebc5c-6397-44f4-b97c-23470fa9a8db	51 Régiment mixte	Army;Military	child	a4eee7cc-b4f3-4e91-be52-885367f6409f	5 Région Militaire	Command	2017-09-15	N	2019-08-14	Y
+d49c887d-c9da-412e-a71d-9c07c4af3d79	511 Compagnie de Commandement d’Appui et de Services	Army;Military	child	b17224db-45fc-4cb1-b568-3035e9517a11	Unknown Régiment (5 Région Militaire)	Command	2014-08-18	N	2014-08-21	Y
+596e9506-798f-478e-9dd5-058e1595902c	512 Compagnie d’Infanterie Motorisé	Army;Military	child	b17224db-45fc-4cb1-b568-3035e9517a11	Unknown Régiment (5 Région Militaire)	Command	2020-05-	N		Y
+6b6d10c3-852b-44e6-b94f-ec6514bb4c1e	514 Escadron de Reconnaissance	Army;Military	child	b17224db-45fc-4cb1-b568-3035e9517a11	Unknown Régiment (5 Région Militaire)	Command				N
+bbcf12be-7148-4329-9214-7eeed3b45072	515 Bataillon d'Artillerie	Army;Military	child	b17224db-45fc-4cb1-b568-3035e9517a11	Unknown Régiment (5 Région Militaire)	Command	2014-08-18	N	2014-08-21	Y
+e7cf8f43-8e9d-4464-b45f-30e05177e989	52 Régiment mixte	Military	child	a4eee7cc-b4f3-4e91-be52-885367f6409f	5 Région Militaire	Command	2017-09-15	N	2020-02-11	Y
+e418e164-c997-4724-8136-bb5396e23081	521 Compagnie de Commandement d’Appui et de Services	Army;Military	child	b17224db-45fc-4cb1-b568-3035e9517a11	Unknown Régiment (5 Région Militaire)	Command	2004-09-13	N	2004-09-17	N
+6c6888e6-148f-4562-bf41-4dcc30542ac1	522 Compagnie d’Infanterie Motorisée	Army;Military	child	b17224db-45fc-4cb1-b568-3035e9517a11	Unknown Régiment (5 Région Militaire)	Command	2019-12-23	N		Y
+84f74a36-5d75-409e-af6e-2a744f11f719	"6 Groupement Tactique Interarmés ""Al Farouk"""	Army;Military	child	a4eee7cc-b4f3-4e91-be52-885367f6409f	5 Région Militaire	Command	2015-07-22	N	2017-09-15	Y
+7e0d5691-9ffa-4058-8dbb-ed0473e8329d	6 Région Militaire	Army;Military	child	e2de48e7-59e7-4a1d-922e-2859d3c77151	Armée de Terre	Command	2009-03-04	Y	2018-03-19	Y
+c77a31d5-2072-421e-9efb-7eb32515440b	61 Régiment mixte	Army;Military	child	7e0d5691-9ffa-4058-8dbb-ed0473e8329d	6 Région Militaire	Command	2020-08-03	N		Y
+580d15cc-1f65-44e9-8ba7-19af6abbec6f	611 Compagnie de Commandement d’Appui et de Services	Army;Military	child	3f4076b8-097a-4967-bcf9-7ad2736dd650	Unknown Régiment (6 Région Militaire)	Command				N
+c051ba39-d73d-431d-a228-2879ac2e3ed8	612 Compagnie d’Infanterie Motorisé	Army;Military	child	3f4076b8-097a-4967-bcf9-7ad2736dd650	Unknown Régiment (6 Région Militaire)	Command	1999	N		Y
+8007d1df-66b0-42db-a64f-8b17d891fe15	614 Escadron de Reconnaissance	Army;Military	child	f71fe3e9-a1d4-40de-a2d9-b3b619d510e9	Unknown Régiment	Command	2002-07-12	N	2002-07-15	Y
+58b228ba-29f0-4c3e-8464-304a6d22baaa	7 Groupement Tactique Interarmés	Army;Military	child	7214a59a-43b5-4406-9a2f-42487a7ffc2a	1 Région Militaire	Command	2016	N		N
+07f598aa-5bde-48cd-913b-9b0b59d7347e	7 Région Militaire	Army;Military	child	e2de48e7-59e7-4a1d-922e-2859d3c77151	Armée de Terre	Command	2009-03-04	Y	2018-08-18	Y
+0e4230d8-6252-49d8-8027-416b18d8d0c0	71 Régiment Mixte	Military	child	07f598aa-5bde-48cd-913b-9b0b59d7347e	7 Région Militaire	Command	2017-02-01	N		Y
+2ec936db-1c29-4167-8971-9719d76d5c4d	711 Compagnie de Commandement d’Appui et de Services	Army;Military	child	aff36d72-de70-4532-bcc8-3a7108b9d19c	Unknown Régiment (7 Région Militaire)	Command	2014-08-18	N	2014-08-21	Y
+890a25d8-d7d3-40ce-b7b4-16cad0ce8ca5	732 Compagnie d’Infanterie Motorisée	Military	child	f71fe3e9-a1d4-40de-a2d9-b3b619d510e9	Unknown Régiment	Command	2016-09-05	N	2016-09-23	Y
+9433afa4-72f1-466f-908a-667b204d5348	8 Groupement Tactique Interarmés	Military	child	7214a59a-43b5-4406-9a2f-42487a7ffc2a	1 Région Militaire	Command	2016-10-03	N		N
+9dd53a4a-f279-458d-b843-fe24ec6a0b7f	8 Région Militaire	Army;Military	child	e2de48e7-59e7-4a1d-922e-2859d3c77151	Armée de Terre	Command	2009-03-04	Y	2017-10-19	Y
+171e5b50-edb1-4dc0-b2b4-bcbb83f0e99e	811 Compagnie de Commandement d’Appui et de Services	Army;Military	child	4abb86d7-cba2-4d3b-b47a-fadb0ed4cafe	Unknown Régiment (8 Région Militaire)	Command	2014-08-18	N	2014-08-21	N
+2edd1237-6417-4343-ab1e-47efa06aa2bb	812 Compagnie d’Infanterie Motorisée	Military	child	f71fe3e9-a1d4-40de-a2d9-b3b619d510e9	Unknown Régiment	Command	2009-12-28	N	2010-07-06	Y
+79286995-e750-4068-8a6f-1a9068189fc3	823 Escadron de Reconnaissance	Military	child	4abb86d7-cba2-4d3b-b47a-fadb0ed4cafe	Unknown Régiment (8 Région Militaire)	Command	2017-04-10	N	2018-06-15	Y
+4a5761f4-6eb4-4149-8507-1b8587bfa1c4	824 Bataillon d'Artillerie	Military	child	4f4ec723-43e8-4c7a-8472-33c750598e9c	Opération Maliko Secteur 5	Command	2021-02-14	N		N
+a842298f-3da3-4c87-a994-0ef8c98a5c36	Armée de l’Air	Air Force;Military	child	7b6dd432-6a19-4e5b-9c9b-ddd26ce21915	Forces Armées Maliennes	Command	2010-05-	N	2018-02-	Y
+e2de48e7-59e7-4a1d-922e-2859d3c77151	Armée de Terre	Army;Military	child	7b6dd432-6a19-4e5b-9c9b-ddd26ce21915	Forces Armées Maliennes	Command	2010-05	N	2018-02-	Y
+5aa4f04e-0d87-4c19-a438-1c59180d6e53	Base 102	Air Force;Military	child	d0d3e29a-9338-4ba0-b41c-2b408054fa91	2 Région Aérienne	Command	2020-04-11	N		Y
+756bf8f3-d391-43f7-9239-48be975e9f0e	Bataillon Autonome des Forces Spéciales et des Centres d'Aguerrissement	Army;Military	child	7b6dd432-6a19-4e5b-9c9b-ddd26ce21915	Forces Armées Maliennes	Command	2018-05-16	Y		Y
+f85779ac-bc91-4814-be11-3d2f2adfbe06	Bataillon Malien (Fuseau Centre)	Joint Task Force;Military;Army	child	6ffcbd95-bf5f-44ac-bb48-22fe6f1d4003	Fuseau Centre	Command	2018-01-15	N	2019-09-30	Y
+249290ed-ff6a-4f39-99a1-f15ac918cbfa	Bataillon Malien (Fuseau Ouest)	Joint Task Force;Military;Army	child	9f961ba8-0bb8-4f80-b6c0-c45f01e44dd1	Fuseau Ouest	Command	2019-03-11	N		Y
+04aab634-60b3-427e-9d46-c88878951568	Brigade de Recherches (Bamako Rive Droite)	Gendarmerie;Military	child	f85467eb-0021-4325-b7bb-156391d8b32a	Compagnie Territoriale (Bamako Rive Droite)	Command	2017-10-09	N		Y
+5b481d16-cd3f-4b32-9697-1932a5add0d7	Brigade de Recherches (Bamako Rive Gauche)	Gendarmerie;Military	child	fa0acf48-67e8-49a2-9a21-23c982dd7c31	Compagnie Territoriale (Bamako Rive Gauche)	Command	2017-10-09	N	2020-03-19	Y
+ca8c6899-a968-4e2e-9dc2-66a35e697ffd	Brigade de Recherches (Bandiagara)	Gendarmerie;Military	child	5553eda1-d1c6-465b-af46-7f6f4738f5dd	Compagnie Territoriale (Bandiagara)	Command	2017-10-09	N		Y
+6d0990ae-960b-4ca6-8ba3-f02a4fe72448	Brigade de Recherches (Douentza)	Gendarmerie;Military	child	057dc644-3923-48e1-b8aa-afe7d98b2a68	Compagnie Territoriale (Douentza)	Command	2017-10-09	N		Y
+c63e0891-3690-4abd-a014-6971f4483db1	Brigade de Recherches (Koro)	Gendarmerie;Military	child	9ba38934-e36c-4808-819b-8a27e0802025	Compagnie Territoriale (Koro)	Command	2017-10-09	Y		Y
+e9f851b0-b079-437e-abd7-12395dfccb02	Brigade de Recherches (Mopti)	Gendarmerie;Military	child	0542e865-157a-44e5-ac15-fd168c062d13	Compagnie Territoriale (Mopti)	Command	2017-10-09	N		Y
+b39386d5-fa0e-42d7-be49-4d5b2087c6eb	Brigade de Recherches (Niono)	Gendarmerie;Military	child	d0a76aa7-1c8b-43ad-8d3e-cab1784e3364	Compagnie Territoriale (Niono)	Command	2017-10-09	N		Y
+f19021eb-e9cb-4f69-a2a3-71701352a3c9	Brigade de Recherches (San)	Gendarmerie;Military	child	9ed9d9ee-3748-4e32-a405-d4cefbff5b5f	Compagnie Territoriale (San)	Command	2017-10-09	N		Y
+b294fc59-5a1a-4c27-bc31-46e787eb1dc1	Brigade de Recherches (Ségou)	Gendarmerie;Military	child	31b0f888-cece-40ac-85c8-96974ba28c64	Compagnie Territoriale (Ségou)	Command	2017-10-09	N		Y
+0ff11f45-b7a1-408a-a080-200ae092b377	Brigade de Recherches (Tenenkou)	Gendarmerie;Military	child	9c591256-0c09-4822-85f6-444e68491c00	Compagnie Fluviale (Mopti)	Command	2017-10-09	N		Y
+fa7a9d70-83a7-424d-bd1e-0265697fc375	Brigade Fluviale (Bamako)	Gendarmerie;Military	child	fa0acf48-67e8-49a2-9a21-23c982dd7c31	Compagnie Territoriale (Bamako Rive Gauche)	Command	2017-10-09	N		Y
+08c871ff-4390-4c2c-a456-1760fadca322	Brigade Fluviale (Diafarabé)	Gendarmerie;Military	child	9c591256-0c09-4822-85f6-444e68491c00	Compagnie Fluviale (Mopti)	Command	2017-10-09	N		Y
+fd05d92b-4e6f-4631-afbb-0b82a423e596	Brigade Fluviale (Mopti)	Gendarmerie;Military	child	9c591256-0c09-4822-85f6-444e68491c00	Compagnie Fluviale (Mopti)	Command	2017-10-09	N		Y
+28df3f53-e6da-48ca-876e-71aeaa572d18	Brigade Fluviale (Ségou)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2019-01-19	N		Y
+56dab975-ad7d-4484-915f-27e47292b501	Brigade Fluviale (Youwarou)	Gendarmerie;Military	child	9c591256-0c09-4822-85f6-444e68491c00	Compagnie Fluviale (Mopti)	Command	2017-10-09	N		Y
+6707f2c0-2839-4b68-9007-f15160a02ccd	Brigade Mixte de Gendarmerie (Sévaré)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2016-01-22	N	2016-08-02	Y
+b4ddcc8f-f09d-4506-be05-07c33a0f511f	Brigade Territoriale (Ansongo)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2017-10-20	N	2019-01-19	Y
+8457aa8d-1a7d-41ba-a9fd-1038d27c89d8	Brigade Territoriale (Bafoulabe)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	1984	N	2019-01-19	Y
+6085c222-8704-475c-8df0-73e2a3278c42	Brigade Territoriale (Baguineda)	Gendarmerie;Military	child	f85467eb-0021-4325-b7bb-156391d8b32a	Compagnie Territoriale (Bamako Rive Droite)	Command	2017-10-09	N		Y
+df1ed69b-d0d6-43b7-8b5a-42bb1eb97b1e	Brigade Territoriale (Ballé)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2019-01-19	N	2020-01-29	E
+e0136bd7-1628-4073-a812-c237106ae774	Brigade Territoriale (Bamako-coura)	Gendarmerie;Military	child	fa0acf48-67e8-49a2-9a21-23c982dd7c31	Compagnie Territoriale (Bamako Rive Gauche)	Command	2017-10-09	N	2020-03-19	Y
+c40eb67a-b0df-416c-9462-f90227c88abe	Brigade Territoriale (Banamba)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2017-08-08	N	2019-01-19	Y
+e6bee526-aa42-4e2f-93d4-b2ecde3669f4	Brigade Territoriale (Banankabougou)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2018-11-07	N	2019-01-19	Y
+9aad9254-6da5-48a4-9ae1-93a49f42c67b	Brigade Territoriale (Bandiagara)	Gendarmerie;Military	child	5553eda1-d1c6-465b-af46-7f6f4738f5dd	Compagnie Territoriale (Bandiagara)	Command	2017-10-09	N		Y
+49ed4156-9b54-4ef2-9567-e003c50dd83b	Brigade Territoriale (Bankass)	Gendarmerie;Military	child	5553eda1-d1c6-465b-af46-7f6f4738f5dd	Compagnie Territoriale (Bandiagara)	Command	2017-10-09	N		Y
+1a00a746-cf44-4e94-9cb7-7e4b28239f75	Brigade Territoriale (Baraouéli)	Gendarmerie;Military	child	31b0f888-cece-40ac-85c8-96974ba28c64	Compagnie Territoriale (Ségou)	Command	2017-10-09	N		Y
+1cabbfd6-f53a-4eff-846f-dc0c6986e32b	Brigade Territoriale (Barouéli)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	1997	N	2019-01-19	Y
+c8a99a2a-27c3-4bfd-9e48-132fe75c426a	Brigade Territoriale (Bla)	Gendarmerie;Military	child	31b0f888-cece-40ac-85c8-96974ba28c64	Compagnie Territoriale (Ségou)	Command	2017-10-09	N		Y
+f26633f6-06f1-439a-936b-ef0e1752da05	Brigade Territoriale (Boni)	Gendarmerie;Military	child	057dc644-3923-48e1-b8aa-afe7d98b2a68	Compagnie Territoriale (Douentza)	Command	2017-10-09	N		Y
+7d4d195e-31b8-419c-ade6-a77204f3b82f	Brigade Territoriale (Bougouni)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2016-06-13	N	2019-01-19	Y
+c1f92d41-21f1-4e25-9bfc-70e53dd2faf6	Brigade Territoriale (Cinzana Gare)	Gendarmerie;Military	child	31b0f888-cece-40ac-85c8-96974ba28c64	Compagnie Territoriale (Ségou)	Command	2017-10-09	N		Y
+f1977b40-601f-4edf-a130-8efcec33e59d	Brigade Territoriale (Diabaly)	Gendarmerie;Military	child	d0a76aa7-1c8b-43ad-8d3e-cab1784e3364	Compagnie Territoriale (Niono)	Command	2017-10-09	N		Y
+b6ca07c9-a421-481f-8142-112509fc96ce	Brigade Territoriale (Dialakorodji)	Gendarmerie;Military	child	fa0acf48-67e8-49a2-9a21-23c982dd7c31	Compagnie Territoriale (Bamako Rive Gauche)	Command	2017-10-09	N		Y
+3d5926bc-388a-4db8-8d9a-8459ef3fb9b9	Brigade Territoriale (Diallassagou)	Gendarmerie;Military	child	5553eda1-d1c6-465b-af46-7f6f4738f5dd	Compagnie Territoriale (Bandiagara)	Command	2017-10-09	N		Y
+59a15ad4-d526-4849-96b1-5511240ea087	Brigade Territoriale (Diankabou)	Gendarmerie;Military	child	9ba38934-e36c-4808-819b-8a27e0802025	Compagnie Territoriale (Koro)	Command	2017-10-09	Y		Y
+1c2af210-7e81-4564-8657-d8c7fa0405bc	Brigade Territoriale (Diema)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2015-04-30	N	2020-02-10	Y
+572c1ebb-73b5-4404-ad96-8644b9beb8a9	Brigade Territoriale (Dinangourou)	Gendarmerie;Military	child	9ba38934-e36c-4808-819b-8a27e0802025	Compagnie Territoriale (Koro)	Command	2017-10-09	N		Y
+ff1e53a8-b3c5-4727-82db-6e364f0c031f	Brigade Territoriale (Dioïla)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2015-04-30	N	2019-01-19	Y
+c2207cf2-c6ab-4c57-b1d5-02e1a4180dfa	Brigade Territoriale (Dioro)	Gendarmerie;Military	child	d0a76aa7-1c8b-43ad-8d3e-cab1784e3364	Compagnie Territoriale (Niono)	Command	2017-10-09	N		Y
+57d99964-94a1-474a-b66c-151359658a52	Brigade Territoriale (Dioungani-Peulh)	Gendarmerie;Military	child	9ba38934-e36c-4808-819b-8a27e0802025	Compagnie Territoriale (Koro)	Command	2017-10-09	Y		Y
+6e18dc84-dd33-427f-92f4-7a28fa5fcf45	Brigade Territoriale (Dioura)	Gendarmerie;Military	child	0542e865-157a-44e5-ac15-fd168c062d13	Compagnie Territoriale (Mopti)	Command	2017-10-09	N		Y
+1ce77690-81d9-4f7c-9fa3-93334bc0c847	Brigade Territoriale (Diré)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2015-04-30	N	2020-07-27	Y
+fade5099-a65f-45a0-a6bc-13687ead282c	Brigade Territoriale (Djenné)	Gendarmerie;Military	child	0542e865-157a-44e5-ac15-fd168c062d13	Compagnie Territoriale (Mopti)	Command	2017-10-09	N		Y
+502e16ef-051c-421c-8bbb-85db69a55c88	Brigade Territoriale (Djougoudini)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2019-01-04	N	2019-01-19	Y
+f274711d-e232-456b-8770-b04c55bc390f	Brigade Territoriale (Dogodouman)	Gendarmerie;Military	child	fa0acf48-67e8-49a2-9a21-23c982dd7c31	Compagnie Territoriale (Bamako Rive Gauche)	Command	2017-10-09	N		Y
+4783d6fa-c861-410c-b842-53c8fdfec928	Brigade Territoriale (Douentza)	Gendarmerie;Military	child	057dc644-3923-48e1-b8aa-afe7d98b2a68	Compagnie Territoriale (Douentza)	Command	2017-10-09	N		Y
+83a09262-2f65-4632-b5b1-0d2f2c712f33	Brigade Territoriale (Faladié)	Gendarmerie;Military	child	f85467eb-0021-4325-b7bb-156391d8b32a	Compagnie Territoriale (Bamako Rive Droite)	Command	2017-10-09	N		Y
+628aed62-a6d9-4428-b0b7-21da04ac73b6	Brigade Territoriale (Fana)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2015-04-30	N	2019-01-19	Y
+3a12bc07-f3fa-404c-ab9d-8ad721682134	Brigade Territoriale (Gao)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2019-01-19	N	2020-06-30	Y
+836d18ce-298d-4e12-b7fb-c060eed74291	Brigade Territoriale (Gossi)	Gendarmerie;Military	child	057dc644-3923-48e1-b8aa-afe7d98b2a68	Compagnie Territoriale (Douentza)	Command	2017-10-09	N		Y
+68073d81-5d62-46cb-8caa-4543e72d9cfe	Brigade Territoriale (Goundam)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2015-07-08	N	2019-04-12	Y
+f98c41e3-d046-4a14-9808-08a6917f47a2	Brigade Territoriale (Gourma-Rharous)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2015-07-08	N	2019-01-19	Y
+676b89bc-0988-453e-b057-16df4f41b8b5	Brigade Territoriale (Guire)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2017-10-19	N	2019-01-19	Y
+cbd5f8fd-eac9-48ae-8696-fcefe2bacda7	Brigade Territoriale (Hombori)	Gendarmerie;Military	child	057dc644-3923-48e1-b8aa-afe7d98b2a68	Compagnie Territoriale (Douentza)	Command	2017-10-09	N		Y
+6aaabc39-e4b3-4216-bb71-1d169cb142c1	Brigade Territoriale (Kadiolo)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2016-01-29	N	2019-01-19	Y
+a59682b2-902a-4389-afc0-12318e1ec1fb	Brigade Territoriale (Kalaban-Coro)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2018-02-27	N	2019-01-19	Y
+8443f53a-83a9-4618-89fd-40c7236301c3	Brigade Territoriale (Kalabancoro)	Gendarmerie;Military	child	f85467eb-0021-4325-b7bb-156391d8b32a	Compagnie Territoriale (Bamako Rive Droite)	Command	2017-10-09	N		Y
+c12b1133-c5cd-4668-9212-c27063a9deaa	Brigade Territoriale (Kalana)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2016-03-02	N	2019-01-19	Y
+2a873dc0-3b77-4323-9d2b-d2367cdb25af	Brigade Territoriale (Kangaba)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2015-04-30	N	2019-01-19	Y
+f0283b60-df5f-47ad-a8ee-ce944ef83989	Brigade Territoriale (Kangaré)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2017-05-20	N	2019-01-19	Y
+e466a15c-a397-42e4-8906-c3dd7e47540a	Brigade Territoriale (Kati)	Gendarmerie;Military	child	fa0acf48-67e8-49a2-9a21-23c982dd7c31	Compagnie Territoriale (Bamako Rive Gauche)	Command	2020-03-19			Y
+00b77bf0-0b21-4630-9766-b9656acdd3e6	Brigade Territoriale (Kayes)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2015-12-22	N	2019-01-19	Y
+c2f37081-424d-4b09-b0a4-6a98e7342ed8	Brigade Territoriale (Ke Macina)	Gendarmerie;Military	child	31b0f888-cece-40ac-85c8-96974ba28c64	Compagnie Territoriale (Ségou)	Command	2017-10-09	N		Y
+ad746b80-4fcd-458f-97c9-6931d6f57d91	Brigade Territoriale (Kéniéba)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2013-06-10	N	2019-01-19	Y
+ea22a2b9-b77e-4985-b67c-9c32c7a3ef03	Brigade Territoriale (Kignan)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2014-09-28	N	2019-01-19	Y
+ca839266-33a2-45fd-a9f8-3f5e2636e14d	Brigade Territoriale (Kimparana)	Gendarmerie;Military	child	9ed9d9ee-3748-4e32-a405-d4cefbff5b5f	Compagnie Territoriale (San)	Command	2017-10-09	N		Y
+06e4e7b3-acde-4b7f-99d5-817e5714bba7	Brigade Territoriale (Kita)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2018-10-28	N	2019-01-19	Y
+b88716b6-1bb3-487b-a871-9d3c3e2a354b	Brigade Territoriale (Kolokani)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2019-01-19	N	2019-11-19	Y
+a4921e01-804c-4e04-841c-9f229ab4e0c7	Brigade Territoriale (Kolondieba)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2015-04-30	N	2019-01-19	Y
+000cff55-b643-4f18-8547-bf79137a72c7	Brigade Territoriale (Konna)	Gendarmerie;Military	child	0542e865-157a-44e5-ac15-fd168c062d13	Compagnie Territoriale (Mopti)	Command	2017-10-09	N		Y
+22420078-0fce-44bd-ac8b-514c27252ece	Brigade Territoriale (Koro)	Gendarmerie;Military	child	9ba38934-e36c-4808-819b-8a27e0802025	Compagnie Territoriale (Koro)	Command	2017-10-09	N		Y
+dec126d3-0e77-4ae4-ad0d-95c78349394b	Brigade Territoriale (Koumantou)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2018-04-19	N	2019-01-19	Y
+4b67033e-7b95-4a88-b1fd-a67962ec933e	Brigade Territoriale (Kourouba)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2019-01-19	N	2020-02-29	Y
+bb1ca689-8772-4572-a76a-72714ceaec43	Brigade Territoriale (Koury)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2015-04-30	N	2019-05-19	Y
+0cdb1577-8fb8-4e92-8270-fc316e5a8aaf	Brigade Territoriale (Koutiala)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2014-02-	N	2019-01-19	Y
+1f064b96-38dc-4bf6-bf19-3774b6f00619	Brigade Territoriale (Labbézenga)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2016-01-22	N	2019-01-19	Y
+5afbac03-2225-448d-bde9-87399a3512eb	Brigade Territoriale (Léré)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2019-01-19	N	2019-12-23	Y
+da782f7e-13c9-4f22-9dcc-07dcf2fe10cd	Brigade Territoriale (Madougou-Dogon)	Gendarmerie;Military	child	9ba38934-e36c-4808-819b-8a27e0802025	Compagnie Territoriale (Koro)	Command	2017-10-09	Y		Y
+d5191bca-a0dc-48a5-863d-043f46b0432d	Brigade Territoriale (Mafuné)	Gendarmerie;Military	child	9ed9d9ee-3748-4e32-a405-d4cefbff5b5f	Compagnie Territoriale (San)	Command	2017-10-09	N		Y
+6008eaf1-1234-4035-a10a-1cd31f8ef0c2	Brigade Territoriale (Manantaly)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2014-12-17	N	2019-01-19	Y
+d0fe1659-fa22-45a3-920d-373e7195a820	Brigade Territoriale (Mandiakuy)	Gendarmerie;Military	child	9ed9d9ee-3748-4e32-a405-d4cefbff5b5f	Compagnie Territoriale (San)	Command	2017-10-09	N		Y
+1831e426-fe72-4a36-842a-105e772e6b15	Brigade Territoriale (Markala)	Gendarmerie;Military	child	d0a76aa7-1c8b-43ad-8d3e-cab1784e3364	Compagnie Territoriale (Niono)	Command	2017-10-09	N		Y
+6e7aa479-9141-4c21-9ad6-58fa69dde022	Brigade Territoriale (Massigui)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2019-01-19	N	2020-07-25	Y
+bc4e9801-cce8-432d-90bd-05360bca6a57	Brigade Territoriale (Ménaka)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2019-01-19	N	2019-12-01	Y
+02d536d0-a841-46f2-bbef-efd7745b44e7	Brigade Territoriale (Mondoro-Habe)	Gendarmerie;Military	child	057dc644-3923-48e1-b8aa-afe7d98b2a68	Compagnie Territoriale (Douentza)	Command	2017-10-09	N		Y
+3916704a-f81a-4ccc-b85c-fe9350428cfb	Brigade Territoriale (Monimpébougou)	Gendarmerie;Military	child	31b0f888-cece-40ac-85c8-96974ba28c64	Compagnie Territoriale (Ségou)	Command	2017-10-09	N		Y
+b831bc18-3004-4003-9f44-2f3867929e32	Brigade Territoriale (Mopti)	Gendarmerie;Military	child	0542e865-157a-44e5-ac15-fd168c062d13	Compagnie Territoriale (Mopti)	Command	2017-10-09	N		Y
+1a140f12-43c9-4bd4-8e38-ea6123b4a8e4	Brigade Territoriale (Mougna)	Gendarmerie;Military	child	0542e865-157a-44e5-ac15-fd168c062d13	Compagnie Territoriale (Mopti)	Command	2017-10-09	N		Y
+8c1b1e02-5c7f-4173-80b8-7474336d344a	Brigade Territoriale (N'Gabakoro-Droit)	Gendarmerie;Military	child	fa0acf48-67e8-49a2-9a21-23c982dd7c31	Compagnie Territoriale (Bamako Rive Gauche)	Command	2017-10-09	N	2018-07-04	Y
+732502a5-4d8e-4874-ac14-19b0f5d583ec	Brigade Territoriale (N'Golobougou)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2018-05-22	Y	2019-01-19	Y
+df78f2cd-0e78-4621-bc24-4d5329fe0a97	Brigade Territoriale (N'Golognebougou)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2017-07-24	N	2019-01-19	Y
+0e246b72-0c0e-4d46-b066-3d35ba11d614	Brigade Territoriale (N'Gouma)	Gendarmerie;Military	child	5553eda1-d1c6-465b-af46-7f6f4738f5dd	Compagnie Territoriale (Bandiagara)	Command	2017-10-09	N		Y
+be8579f9-6c9e-410b-ba98-fb7a4029e01b	Brigade Territoriale (Nampala)	Gendarmerie;Military	child	d0a76aa7-1c8b-43ad-8d3e-cab1784e3364	Compagnie Territoriale (Niono)	Command	2017-10-09	N		Y
+4ae2add1-c8c6-4992-b51f-d43b45582834	Brigade Territoriale (Nara)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2019-01-02	N	2019-01-19	Y
+5fcb616b-9973-416c-9517-2ffc5e7e0d16	Brigade Territoriale (Naréna)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	1963-04-	N	2019-01-19	Y
+99cdfb93-0746-4232-88f4-5022a912aae0	Brigade Territoriale (Niafunké)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2015-07-08	N	2020-01-06	Y
+f5c49f7a-fe25-43dc-b486-15d46723d6fb	Brigade Territoriale (Ninngari)	Gendarmerie;Military	child	5553eda1-d1c6-465b-af46-7f6f4738f5dd	Compagnie Territoriale (Bandiagara)	Command	2017-10-09	N		Y
+09cfe07a-fbcc-4105-8341-4139ec24e2a6	Brigade Territoriale (Niono)	Gendarmerie;Military	child	d0a76aa7-1c8b-43ad-8d3e-cab1784e3364	Compagnie Territoriale (Niono)	Command	2017-10-09	N		Y
+6f4b5267-e27f-46d1-89c1-1d7fa586556a	Brigade Territoriale (Nyamina)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2019-01-19	N	2019-05-27	Y
+9c6cdc9b-8651-4d36-8690-2f410861ddab	Brigade Territoriale (Ouélessébougou)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2015-09-02	N	2019-01-19	Y
+93531b1a-43ff-4e55-bd53-dc089032d5a9	Brigade Territoriale (Ouenzzindougou)	Gendarmerie;Military	child	fa0acf48-67e8-49a2-9a21-23c982dd7c31	Compagnie Territoriale (Bamako Rive Gauche)	Command	2017-10-09	N	2020-03-19	Y
+18ee024d-d49c-441d-91b8-3d76e262aee0	Brigade Territoriale (Pelengana)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2019-01-19	N	2020-05-26	Y
+0107df37-7410-4ec0-b288-2a76f7cb8cdf	Brigade Territoriale (Sadiola)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2019-01-19	N	2019-02-24	Y
+1dfcf16d-ec7f-4d4e-9734-498b82ae9586	Brigade Territoriale (San)	Gendarmerie;Military	child	9ed9d9ee-3748-4e32-a405-d4cefbff5b5f	Compagnie Territoriale (San)	Command	2017-10-09	N		Y
+5893d087-2eb5-4578-ab5e-0256496f614d	Brigade Territoriale (Sandaré)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2019-01-19	N	2020-08-04	Y
+02c18c66-8750-44ca-95bd-a74881882d1c	Brigade Territoriale (Sangarebougou)	Gendarmerie;Military	child	fa0acf48-67e8-49a2-9a21-23c982dd7c31	Compagnie Territoriale (Bamako Rive Gauche)	Command	2017-10-09	N		Y
+37c2e09f-5916-4938-a7c0-6a4a35da1230	Brigade Territoriale (Sangarébougou)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2017-01-18	N	2019-01-19	Y
+e61df4af-dedf-40cf-8d38-3158dfbc1928	Brigade Territoriale (Sangha)	Gendarmerie;Military	child	5553eda1-d1c6-465b-af46-7f6f4738f5dd	Compagnie Territoriale (Bandiagara)	Command	2017-10-09	N		Y
+a5f0d295-8aef-4c82-81e3-dfe816b74904	Brigade Territoriale (Saye)	Gendarmerie;Military	child	31b0f888-cece-40ac-85c8-96974ba28c64	Compagnie Territoriale (Ségou)	Command	2017-10-09	N		Y
+58ee6343-826c-46f1-8c94-efc1ad5cff2c	Brigade Territoriale (Ségou)	Gendarmerie;Military	child	31b0f888-cece-40ac-85c8-96974ba28c64	Compagnie Territoriale (Ségou)	Command	2017-10-09	N		Y
+45c7f13a-b62a-4c06-8b08-cad44338a9c9	Brigade Territoriale (Sélingué)	Gendarmerie;Military	child	fa0acf48-67e8-49a2-9a21-23c982dd7c31	Compagnie Territoriale (Bamako Rive Gauche)	Command	2020-03-19	N		Y
+004e7be8-0007-4fbd-a472-429be160fc32	Brigade Territoriale (Sénou)	Gendarmerie;Military	child	f85467eb-0021-4325-b7bb-156391d8b32a	Compagnie Territoriale (Bamako Rive Droite)	Command	2017-10-09	N		Y
+389b19ab-dd56-441c-bc37-347d9d5d8d0f	Brigade Territoriale (Sévaré)	Gendarmerie;Military	child	0542e865-157a-44e5-ac15-fd168c062d13	Compagnie Territoriale (Mopti)	Command	2017-10-09	N		Y
+0e816a74-7b15-49a1-9feb-dacdf893e9db	Brigade Territoriale (Siby)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2015-02-27	N	2019-01-19	Y
+600a0f3e-1bc7-4ce8-9a8c-61fafc1e9033	Brigade Territoriale (Sikasso)	Gendarmerie;Military	child	a3e69c06-7c23-4290-98b9-2f37fa0b2628	Compagnie Territoriale (Sikasso)	Command	2019-01-15	N		Y
+e5081fcd-f999-4bb9-8ed1-6695e48f43cc	Brigade Territoriale (Tamani)	Gendarmerie;Military	child	31b0f888-cece-40ac-85c8-96974ba28c64	Compagnie Territoriale (Ségou)	Command	2017-10-09	N		Y
+2a6de063-3f2a-421c-91ca-a9f130c04809	Brigade Territoriale (Tenenkou)	Gendarmerie;Military	child	0542e865-157a-44e5-ac15-fd168c062d13	Compagnie Territoriale (Mopti)	Command	2017-10-09	N		Y
+2fd5ea26-3732-48d7-a787-e3b3a7804bfc	Brigade Territoriale (Tessalit)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2015-04-30	N	2019-01-19	Y
+fe0f02f1-093c-458a-a00a-98f7c0715e42	Brigade Territoriale (Tessit)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2016-01-10	N	2019-01-19	Y
+aab75b8b-ff4f-4b7c-b868-6e41f849305a	Brigade Territoriale (Timbuktu)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2015-07-08	N	2019-01-19	Y
+3d7dd134-ac65-4167-956d-f43e0cc569dd	Brigade Territoriale (Timissa)	Gendarmerie;Military	child	9ed9d9ee-3748-4e32-a405-d4cefbff5b5f	Compagnie Territoriale (San)	Command	2017-10-09	N		Y
+54e635a1-74fc-417a-989d-c0ed8922f2e9	Brigade Territoriale (Tominian)	Gendarmerie;Military	child	9ed9d9ee-3748-4e32-a405-d4cefbff5b5f	Compagnie Territoriale (San)	Command	2017-10-09	N		Y
+90d0e7b1-57a8-4a04-b5d6-613f239cc7da	Brigade Territoriale (Tonka)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2015-07-08	N	2019-01-19	Y
+9631f2a4-e7c3-4012-82ef-1b63c292ba62	Brigade Territoriale (Yanfolila)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2011-02-02	N		Y
+5b2b8ae2-a6f3-4a7d-ad31-83a0de7f3207	Brigade Territoriale (Yélimané)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2019-01-19	N	2019-12-05	Y
+24e7dbd1-31fa-445c-a2c7-1fdb95cf8d1e	Brigade Territoriale (Yorosso)	Gendarmerie;Military	child	13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Command	2015-04-30	N	2019-01-19	Y
+f2c435d8-3232-4de9-a88f-534d50d51415	Brigade Territoriale (Youwarou)	Gendarmerie;Military	child	0542e865-157a-44e5-ac15-fd168c062d13	Compagnie Territoriale (Mopti)	Command	2017-10-09	N		Y
+c79cfc50-e2e2-4d52-9047-ce4417aece52	Compagnie des Transports Aériens	Gendarmerie;Military	child	9e26212a-5685-4d37-8e5a-dc95224213b9	Groupement des Transports Aériens	Command	2017-10-09	Y		Y
+9c591256-0c09-4822-85f6-444e68491c00	Compagnie Fluviale (Mopti)	Gendarmerie;Military	child	1ef1e81f-0bfc-4bfb-9249-fcd99205d5d4	Groupement Mixte (Mopti)	Command	2017-10-09	Y		Y
+7693fcba-e624-49ec-9653-0124b4d9f920	Compagnie Méhariste (Abeïbara)	National Guard;Military	child	26b3dc7c-e565-4963-8e7a-22172e1e3243	Unknown Groupement Mobile Nationale)	Command	2018-02-	N		Y
+704f5003-26ad-412e-9d5b-e5aa2ce8dba6	Compagnie Méhariste (Gossi)	National Guard;Military	child	26b3dc7c-e565-4963-8e7a-22172e1e3243	Unknown Groupement Mobile Nationale)	Command	2018-02-	N		Y
+3393f323-fddd-49a5-b52b-f103bea6ddcb	Compagnie Méhariste (Léré)	National Guard;Military	child	26b3dc7c-e565-4963-8e7a-22172e1e3243	Unknown Groupement Mobile Nationale)	Command	2018-02-	N		Y
+691e449d-8c84-4089-b9e1-4efb7588be14	Compagnie Méhariste (Ménaka)	National Guard;Military	child	26b3dc7c-e565-4963-8e7a-22172e1e3243	Unknown Groupement Mobile Nationale)	Command	2018-02-	N		Y
+f85467eb-0021-4325-b7bb-156391d8b32a	Compagnie Territoriale (Bamako Rive Droite)	Gendarmerie;Military	child	4a39a880-6b51-4b03-b70f-8a508f670021	Groupement Territoriale (Bamako)	Command	2017-10-09	Y		Y
+fa0acf48-67e8-49a2-9a21-23c982dd7c31	Compagnie Territoriale (Bamako Rive Gauche)	Gendarmerie;Military	child	4a39a880-6b51-4b03-b70f-8a508f670021	Groupement Territoriale (Bamako)	Command	2017-10-09	Y		Y
+5553eda1-d1c6-465b-af46-7f6f4738f5dd	Compagnie Territoriale (Bandiagara)	Gendarmerie;Military	child	f3a857dd-b047-4631-9359-0df60fb282ee	Groupement Territoriale (Bandiagara)	Command	2017-10-09	Y		Y
+057dc644-3923-48e1-b8aa-afe7d98b2a68	Compagnie Territoriale (Douentza)	Gendarmerie;Military	child	1ef1e81f-0bfc-4bfb-9249-fcd99205d5d4	Groupement Mixte (Mopti)	Command	2017-10-09	Y		Y
+8e5964c0-e58e-49fd-92d1-372e2b56c5fa	Compagnie Territoriale (Gao)	Gendarmerie;Military	child	e9bf2b47-a277-4048-a2ab-ef57554dedeb	Unknown Groupement Territoriale	Command	2019-01-19	N		Y
+6ffcfc85-9c5d-42d7-ae8d-83e0c8a13f4a	Compagnie Territoriale (Kayes)	Gendarmerie;Military	child	e9bf2b47-a277-4048-a2ab-ef57554dedeb	Unknown Groupement Territoriale	Command	2019-01-19	N		Y
+9ba38934-e36c-4808-819b-8a27e0802025	Compagnie Territoriale (Koro)	Gendarmerie;Military	child	f3a857dd-b047-4631-9359-0df60fb282ee	Groupement Territoriale (Bandiagara)	Command	2017-10-09	Y		Y
+e0489e97-a877-43fa-a8b1-bbc4e43bccf8	Compagnie Territoriale (Koulikoro)	Gendarmerie;Military	child	e9bf2b47-a277-4048-a2ab-ef57554dedeb	Unknown Groupement Territoriale	Command	2019-01-19	N		Y
+0542e865-157a-44e5-ac15-fd168c062d13	Compagnie Territoriale (Mopti)	Gendarmerie;Military	child	1ef1e81f-0bfc-4bfb-9249-fcd99205d5d4	Groupement Mixte (Mopti)	Command	2017-10-09	Y		Y
+d0a76aa7-1c8b-43ad-8d3e-cab1784e3364	Compagnie Territoriale (Niono)	Gendarmerie;Military	child	87840c92-c69e-4d27-b14e-0e8953bdd00b	Groupement Territoriale (Ségou)	Command	2017-10-09	Y		Y
+9ed9d9ee-3748-4e32-a405-d4cefbff5b5f	Compagnie Territoriale (San)	Gendarmerie;Military	child	87840c92-c69e-4d27-b14e-0e8953bdd00b	Groupement Territoriale (Ségou)	Command	2017-10-09	Y		Y
+31b0f888-cece-40ac-85c8-96974ba28c64	Compagnie Territoriale (Ségou)	Gendarmerie;Military	child	87840c92-c69e-4d27-b14e-0e8953bdd00b	Groupement Territoriale (Ségou)	Command	2017-10-09	Y		Y
+a3e69c06-7c23-4290-98b9-2f37fa0b2628	Compagnie Territoriale (Sikasso)	Gendarmerie;Military	child	525482ec-6b9d-47ec-aeb6-846eaf165da5	Groupement Territoriale (Sikasso)	Command	2019-01-15	N		Y
+262ff74a-132f-4d68-8f15-748b21d1f940	Escadron 4/1	Gendarmerie;Military	child	1c514274-37e2-450a-8bbc-0b53856e2315	Groupement Mobile (Ségou)	Command	2017-10-09	Y		Y
+14bc12a8-cbce-4ca0-97cd-9b45550eeda1	Escadron 4/2	Gendarmerie;Military	child	1c514274-37e2-450a-8bbc-0b53856e2315	Groupement Mobile (Ségou)	Command	2017-10-09	Y		Y
+cc1d16db-2b05-42a7-ae88-64c37d9128e3	Escadron 4/3	Gendarmerie;Military	child	1c514274-37e2-450a-8bbc-0b53856e2315	Groupement Mobile (Ségou)	Command	2017-10-09	Y		Y
+2dba87f7-413a-4205-bd4a-00c56e75c65c	Escadron 4/4	Gendarmerie;Military	child	1c514274-37e2-450a-8bbc-0b53856e2315	Groupement Mobile (Ségou)	Command	2017-10-09	Y		Y
+9ff7dad6-935c-4d35-91e7-ba66529e34e4	Escadron 4/6	Gendarmerie;Military	child	1c514274-37e2-450a-8bbc-0b53856e2315	Groupement Mobile (Ségou)	Command	2017-10-09	Y		Y
+c05e0aa7-9ece-4eae-9fe6-bd31cf4f6762	Escadron 4/7	Gendarmerie;Military	child	1c514274-37e2-450a-8bbc-0b53856e2315	Groupement Mobile (Ségou)	Command	2017-10-09	Y		Y
+83cd5bed-1594-449a-b545-6cff03e0b9dd	Escadron 4/8	Gendarmerie;Military	child	1c514274-37e2-450a-8bbc-0b53856e2315	Groupement Mobile (Ségou)	Command	2017-10-09	Y		Y
+da49c96a-0e8f-4cbb-aba3-125f216089c7	Escadron 5/1	Gendarmerie;Military	child	1bc5f8fb-b1bc-4c14-80fc-07eb75382497	Groupement Mobile (Mopti)	Command	2017-10-09	Y		Y
+e2cbd7e2-72bb-4116-ba38-a98d0d6f22e8	Escadron 5/10	Gendarmerie;Military	child	42d6f6d7-bbbe-482a-b9d6-c5f3c212733d	Groupement Mobile (Douentza)	Command	2017-10-09	Y		Y
+bcd8065a-9a93-45e3-9604-3b362d6dd591	Escadron 5/12	Gendarmerie;Military	child	77e84ed0-705d-49ca-abd3-3177165b2aa6	Groupement Mobile (Koro)	Command	2017-10-09	Y		Y
+952a9308-c561-42ed-bbab-943323f12fcc	Escadron 5/13	Gendarmerie;Military	child	42d6f6d7-bbbe-482a-b9d6-c5f3c212733d	Groupement Mobile (Douentza)	Command	2017-10-09	Y		Y
+76ed13fb-ee4c-41fe-b7a2-cb49940197f9	Escadron 5/2	Gendarmerie;Military	child	77e84ed0-705d-49ca-abd3-3177165b2aa6	Groupement Mobile (Koro)	Command	2017-10-09	Y		Y
+d4fd1868-cdad-43bb-af24-0eb8e9162b60	Escadron 5/3	Gendarmerie;Military	child	1bc5f8fb-b1bc-4c14-80fc-07eb75382497	Groupement Mobile (Mopti)	Command	2017-10-09	Y		Y
+43226570-d09b-4774-b181-583442fb1b74	Escadron 5/4	Gendarmerie;Military	child	1bc5f8fb-b1bc-4c14-80fc-07eb75382497	Groupement Mobile (Mopti)	Command	2017-10-09	Y		Y
+b75aa407-db6f-4e54-9a03-a1a8031491a1	Escadron 5/5	Gendarmerie;Military	child	77e84ed0-705d-49ca-abd3-3177165b2aa6	Groupement Mobile (Koro)	Command	2017-10-09	Y		Y
+4e796fa0-deac-436c-a793-0fde3974a8d7	Escadron 5/7	Gendarmerie;Military	child	77e84ed0-705d-49ca-abd3-3177165b2aa6	Groupement Mobile (Koro)	Command	2017-10-09	Y		Y
+25ad2c29-716c-488f-a58f-d5dea5c4c89a	Escadron 5/8	Gendarmerie;Military	child	42d6f6d7-bbbe-482a-b9d6-c5f3c212733d	Groupement Mobile (Douentza)	Command	2017-10-09	Y		Y
+5492d077-52d0-4f96-a9dc-4bb524aa9356	Escadron 5/9	Gendarmerie;Military	child	42d6f6d7-bbbe-482a-b9d6-c5f3c212733d	Groupement Mobile (Douentza)	Command	2017-10-09	Y		Y
+fb1d5f78-ce75-4a92-8d19-b57a55bf5e18	Escadron de Surveillance et d'Intervention 2/1 Est	Gendarmerie;Military	child	9e26212a-5685-4d37-8e5a-dc95224213b9	Groupement des Transports Aériens	Command	2017-10-09	Y		Y
+3c847be0-ed22-455c-abfc-2a0747fd7073	Escadron de Surveillance et d'Intervention 2/2 Ouest	Gendarmerie;Military	child	9e26212a-5685-4d37-8e5a-dc95224213b9	Groupement des Transports Aériens	Command	2017-10-09	Y		Y
+fef622d8-12be-4738-96b1-d00cc6c4d563	First Unnamed Groupement d’Intervention Rapide	National Guard;Military	child	af7888d6-e892-417b-8d09-b197ab071d99	Garde Nationale	Command	2018-02	N		Y
+a9555059-313b-44ba-bedc-b199237f9f04	Force conjointe transfrontalière du G5 Sahel	Joint Task Force;Military;Army	child	4d86136f-1702-43f3-ab29-6abc5f95383f	Defence and Security Committee	Command			2019-06-	Y
+7b6dd432-6a19-4e5b-9c9b-ddd26ce21915	Forces Armées Maliennes	Army;Air Force;Military	child	6efcd74d-32a0-4b93-99e6-0f5af657370b	Ministère de la Défense et des Anciens Combattants	Command	2010-05-	N	2017	Y
+6ffcbd95-bf5f-44ac-bb48-22fe6f1d4003	Fuseau Centre	Joint Task Force;Military;Army	child	a9555059-313b-44ba-bedc-b199237f9f04	Force conjointe transfrontalière du G5 Sahel	Command	2018-01-15	N	2019-03-11	Y
+9f961ba8-0bb8-4f80-b6c0-c45f01e44dd1	Fuseau Ouest	Joint Task Force;Military;Army	child	a9555059-313b-44ba-bedc-b199237f9f04	Force conjointe transfrontalière du G5 Sahel	Command	2018-05-08	N	2019-03-11	Y
+af7888d6-e892-417b-8d09-b197ab071d99	Garde Nationale	National Guard;Military	child	7b6dd432-6a19-4e5b-9c9b-ddd26ce21915	Forces Armées Maliennes	Command	2018-02-	N		Y
+d0b6634d-cc40-42de-b953-d77110324c9e	Gendarmerie Nationale	Gendarmerie;Military	child	7b6dd432-6a19-4e5b-9c9b-ddd26ce21915	Forces Armées Maliennes	Command	2018-02-	N		Y
+e9a9b5a0-cac4-48c5-86ed-c3786d7c9f50	Groupe d'appui (Peloton de surveillance et d'intervention Légion de Gendarmerie Bamako)	Gendarmerie;Military	child	4c859181-6e63-4d65-8571-04b430601c20	Peloton de surveillance et d'intervention (Légion de Gendarmerie Bamako)	Command	2017-10-09	Y		Y
+43fe1be3-7dfe-4954-a0c5-cf52f0c2a27d	Groupe d'appui (Peloton de surveillance et d'intervention Légion de Gendarmerie Gao)	Gendarmerie;Military	child	9cfea1e9-cc20-49e3-8226-3dc9f69dff94	Peloton de surveillance et d'intervention (Légion de Gendarmerie Gao)	Command	2017-10-09	Y		Y
+619b9e76-587d-4d53-823e-dd41897a846f	Groupe d'appui (Peloton de surveillance et d'intervention Légion de Gendarmerie Kayes)	Gendarmerie;Military	child	23edb94b-fbd5-4b66-b086-59ef1325feeb	Peloton de surveillance et d'intervention (Légion de Gendarmerie Kayes)	Command	2017-10-09	Y		Y
+4c56df3b-a572-40c4-a8af-ff5c1cc68882	Groupe d'appui (Peloton de surveillance et d'intervention Légion de Gendarmerie Kidal)	Gendarmerie;Military	child	d09fb20d-bf9a-4ddf-94f4-64be69ca6efc	Peloton de surveillance et d'intervention (Légion de Gendarmerie Kidal)	Command	2017-10-09	Y		Y
+a98a375b-4a1c-4777-9eaf-c5ad0217b4a3	Groupe d'appui (Peloton de surveillance et d'intervention Légion de Gendarmerie Koulikoro)	Gendarmerie;Military	child	2aa02ce4-fea3-42cf-8ceb-96eb57c4b8d6	Peloton de surveillance et d'intervention (Légion de Gendarmerie Koulikoro)	Command	2017-10-09	Y		Y
+cb8c329a-d979-421f-b32b-43e2dc0eba4a	Groupe d'appui (Peloton de surveillance et d'intervention Légion de Gendarmerie Mopti)	Gendarmerie;Military	child	faf4f343-47c4-4fb1-b361-d16e0b66dd37	Peloton de surveillance et d'intervention (Légion de Gendarmerie Mopti)	Command	2017-10-09	Y		Y
+f8133693-0aec-44f2-8533-f3366df57124	Groupe d'appui (Peloton de surveillance et d'intervention Légion de Gendarmerie Ségou)	Gendarmerie;Military	child	39d82c19-bcb8-4d73-9490-b692bfd04499	Peloton de surveillance et d'intervention (Légion de Gendarmerie Ségou)	Command	2017-10-09	Y		Y
+ccfb6518-d0c1-49d2-b6c2-001d023cd439	Groupe d'appui (Peloton de surveillance et d'intervention Légion de Gendarmerie Sikasso)	Gendarmerie;Military	child	625fffb9-be36-4cd9-866b-0a54e2372e2a	Peloton de surveillance et d'intervention (Légion de Gendarmerie Sikasso)	Command	2017-10-09	Y		Y
+f6bbc876-b6fc-4636-a105-f14648eb291c	Groupe d'appui (Peloton de surveillance et d'intervention Légion de Gendarmerie Timbuktu)	Gendarmerie;Military	child	4d0e483a-1406-44fd-91bb-64e9f56eb423	Peloton de surveillance et d'intervention (Légion de Gendarmerie Timbuktu)	Command	2017-10-09	Y		Y
+f08e933f-30c0-4ead-b60d-4c9b53e36d8a	Groupe d'Intervention (Peloton de surveillance et d'intervention Légion de Gendarmerie Bamako)	Gendarmerie;Military	child	4c859181-6e63-4d65-8571-04b430601c20	Peloton de surveillance et d'intervention (Légion de Gendarmerie Bamako)	Command	2017-10-09	Y		Y
+cafa1d41-3637-42c9-be64-1ed824b0db42	Groupe d'Intervention (Peloton de surveillance et d'intervention Légion de Gendarmerie Gao)	Gendarmerie;Military	child	9cfea1e9-cc20-49e3-8226-3dc9f69dff94	Peloton de surveillance et d'intervention (Légion de Gendarmerie Gao)	Command	2017-10-09	Y		Y
+de97ff0c-a31c-4ddc-a81a-414c6f5d981e	Groupe d'Intervention (Peloton de surveillance et d'intervention Légion de Gendarmerie Kayes)	Gendarmerie;Military	child	23edb94b-fbd5-4b66-b086-59ef1325feeb	Peloton de surveillance et d'intervention (Légion de Gendarmerie Kayes)	Command	2017-10-09	Y		Y
+3638986b-87cb-4f54-9272-0fd4959a0d65	Groupe d'Intervention (Peloton de surveillance et d'intervention Légion de Gendarmerie Kidal)	Gendarmerie;Military	child	d09fb20d-bf9a-4ddf-94f4-64be69ca6efc	Peloton de surveillance et d'intervention (Légion de Gendarmerie Kidal)	Command	2017-10-09	Y		Y
+3673d381-98a9-4838-8fbd-dd1b952a6104	Groupe d'Intervention (Peloton de surveillance et d'intervention Légion de Gendarmerie Koulikoro)	Gendarmerie;Military	child	2aa02ce4-fea3-42cf-8ceb-96eb57c4b8d6	Peloton de surveillance et d'intervention (Légion de Gendarmerie Koulikoro)	Command	2017-10-09	Y		Y
+414209b0-b5bb-4eda-b8ad-9254fce335aa	Groupe d'Intervention (Peloton de surveillance et d'intervention Légion de Gendarmerie Mopti)	Gendarmerie;Military	child	faf4f343-47c4-4fb1-b361-d16e0b66dd37	Peloton de surveillance et d'intervention (Légion de Gendarmerie Mopti)	Command	2017-10-09	Y		Y
+a301efe7-818b-4ed1-8a0f-83fab18ea5d2	Groupe d'Intervention (Peloton de surveillance et d'intervention Légion de Gendarmerie Ségou)	Gendarmerie;Military	child	39d82c19-bcb8-4d73-9490-b692bfd04499	Peloton de surveillance et d'intervention (Légion de Gendarmerie Ségou)	Command	2017-10-09	Y		Y
+52136add-9a79-4cb2-aa18-c863dd36e1a7	Groupe d'Intervention (Peloton de surveillance et d'intervention Légion de Gendarmerie Sikasso)	Gendarmerie;Military	child	625fffb9-be36-4cd9-866b-0a54e2372e2a	Peloton de surveillance et d'intervention (Légion de Gendarmerie Sikasso)	Command	2017-10-09	Y		Y
+36739d84-b65b-4d6c-839e-f1f9b6fc115e	Groupe d'Intervention (Peloton de surveillance et d'intervention Légion de Gendarmerie Timbuktu)	Gendarmerie;Military	child	4d0e483a-1406-44fd-91bb-64e9f56eb423	Peloton de surveillance et d'intervention (Légion de Gendarmerie Timbuktu)	Command	2017-10-09	Y		Y
+c9de9fef-8011-45bb-b924-178f130f5821	Groupe de protection sécurité (Peloton de surveillance et d'intervention Légion de Gendarmerie Bamako)	Gendarmerie;Military	child	4c859181-6e63-4d65-8571-04b430601c20	Peloton de surveillance et d'intervention (Légion de Gendarmerie Bamako)	Command	2017-10-09	Y		Y
+f960164a-d7fc-4690-9994-23d1dc7efc5b	Groupe de protection sécurité (Peloton de surveillance et d'intervention Légion de Gendarmerie Gao)	Gendarmerie;Military	child	9cfea1e9-cc20-49e3-8226-3dc9f69dff94	Peloton de surveillance et d'intervention (Légion de Gendarmerie Gao)	Command	2017-10-09	Y		Y
+3ec14040-7c2d-483b-a020-837df02fde31	Groupe de protection sécurité (Peloton de surveillance et d'intervention Légion de Gendarmerie Kayes)	Gendarmerie;Military	child	23edb94b-fbd5-4b66-b086-59ef1325feeb	Peloton de surveillance et d'intervention (Légion de Gendarmerie Kayes)	Command	2017-10-09	Y		Y
+2d98056a-6b91-43c5-b527-cb806f342b19	Groupe de protection sécurité (Peloton de surveillance et d'intervention Légion de Gendarmerie Kidal)	Gendarmerie;Military	child	d09fb20d-bf9a-4ddf-94f4-64be69ca6efc	Peloton de surveillance et d'intervention (Légion de Gendarmerie Kidal)	Command	2017-10-09	Y		Y
+4d52c30c-2be9-4b2e-9f9a-fda85a284822	Groupe de protection sécurité (Peloton de surveillance et d'intervention Légion de Gendarmerie Koulikoro)	Gendarmerie;Military	child	2aa02ce4-fea3-42cf-8ceb-96eb57c4b8d6	Peloton de surveillance et d'intervention (Légion de Gendarmerie Koulikoro)	Command	2017-10-09	Y		Y
+49632768-748b-4adc-9c65-328bd99e657b	Groupe de protection sécurité (Peloton de surveillance et d'intervention Légion de Gendarmerie Mopti)	Gendarmerie;Military	child	faf4f343-47c4-4fb1-b361-d16e0b66dd37	Peloton de surveillance et d'intervention (Légion de Gendarmerie Mopti)	Command	2017-10-09	Y		Y
+15a481a6-b9c5-4dd5-8c59-28babf83d6bd	Groupe de protection sécurité (Peloton de surveillance et d'intervention Légion de Gendarmerie Ségou)	Gendarmerie;Military	child	39d82c19-bcb8-4d73-9490-b692bfd04499	Peloton de surveillance et d'intervention (Légion de Gendarmerie Ségou)	Command	2017-10-09	Y		Y
+cdb9630c-cdde-46ab-8bb8-0b3cfb218cb7	Groupe de protection sécurité (Peloton de surveillance et d'intervention Légion de Gendarmerie Sikasso)	Gendarmerie;Military	child	625fffb9-be36-4cd9-866b-0a54e2372e2a	Peloton de surveillance et d'intervention (Légion de Gendarmerie Sikasso)	Command	2017-10-09	Y		Y
+a3dd4859-0bdd-4b7b-979a-313f65c2bbe4	Groupe de protection sécurité (Peloton de surveillance et d'intervention Légion de Gendarmerie Timbuktu)	Gendarmerie;Military	child	4d0e483a-1406-44fd-91bb-64e9f56eb423	Peloton de surveillance et d'intervention (Légion de Gendarmerie Timbuktu)	Command	2017-10-09	Y		Y
+9e26212a-5685-4d37-8e5a-dc95224213b9	Groupement des Transports Aériens	Gendarmerie;Military	child	bb9da833-8334-4e66-a53e-de40e589dd15	Légion de Gendarmerie (Bamako)	Command	2017-10-09	Y		N
+1ef1e81f-0bfc-4bfb-9249-fcd99205d5d4	Groupement Mixte (Mopti)	Gendarmerie;Military	child	0b8d548c-592e-4e23-8638-dedb444968ed	Légion de Gendarmerie (Mopti)	Command	2017-10-09	Y		Y
+42d6f6d7-bbbe-482a-b9d6-c5f3c212733d	Groupement Mobile (Douentza)	Gendarmerie;Military	child	0b8d548c-592e-4e23-8638-dedb444968ed	Légion de Gendarmerie (Mopti)	Command	2017-10-09	Y		Y
+fb04f68c-f079-492d-9da7-abe473ba9695	Groupement Mobile (Kayes)	Gendarmerie;Military	child	0cadaa9b-a38c-4ffb-9272-3fa0ccca42a8	Unknown Légion de Gendarmerie	Command	2015-04-30	N	2019-01-19	N
+77e84ed0-705d-49ca-abd3-3177165b2aa6	Groupement Mobile (Koro)	Gendarmerie;Military	child	0b8d548c-592e-4e23-8638-dedb444968ed	Légion de Gendarmerie (Mopti)	Command	2017-10-09	Y		Y
+1bc5f8fb-b1bc-4c14-80fc-07eb75382497	Groupement Mobile (Mopti)	Gendarmerie;Military	child	0b8d548c-592e-4e23-8638-dedb444968ed	Légion de Gendarmerie (Mopti)	Command	2017-10-09	Y		Y
+1c514274-37e2-450a-8bbc-0b53856e2315	Groupement Mobile (Ségou)	Gendarmerie;Military	child	cf989d97-6eb8-4c08-9b15-064f8aefd2ab	Légion de Gendarmerie (Ségou)	Command	2017-10-09	Y		Y
+4a39a880-6b51-4b03-b70f-8a508f670021	Groupement Territoriale (Bamako)	Gendarmerie;Military	child	bb9da833-8334-4e66-a53e-de40e589dd15	Légion de Gendarmerie (Bamako)	Command	2017-10-09	Y		N
+f3a857dd-b047-4631-9359-0df60fb282ee	Groupement Territoriale (Bandiagara)	Gendarmerie;Military	child	0b8d548c-592e-4e23-8638-dedb444968ed	Légion de Gendarmerie (Mopti)	Command	2017-10-09	Y		N
+7e806cc7-4c45-4372-84a0-f67c4f3fae52	Groupement Territoriale (Gao)	Gendarmerie;Military	child	0941398a-ced1-4e0a-b475-896dbb57ce69	Région de Gendarmerie (Gao)	Command				N
+cb8c5bc4-21df-4321-8cf6-a92cd7e8e9f8	Groupement Territoriale (Koulikoro)	Gendarmerie;Military	child	8809a207-f031-4681-8eac-d291e731013b	Unknown Région de Gendarmerie	Command				N
+87840c92-c69e-4d27-b14e-0e8953bdd00b	Groupement Territoriale (Ségou)	Gendarmerie;Military	child	cf989d97-6eb8-4c08-9b15-064f8aefd2ab	Légion de Gendarmerie (Ségou)	Command	2017-10-09	Y		N
+525482ec-6b9d-47ec-aeb6-846eaf165da5	Groupement Territoriale (Sikasso)	Gendarmerie;Military	child	cffd226a-41ce-479e-82cc-7ad42facad2d	Légion de Gendarmerie (Sikasso)	Command	2019-01-15	N		N
+bb9da833-8334-4e66-a53e-de40e589dd15	Légion de Gendarmerie (Bamako)	Gendarmerie;Military	child	d0b6634d-cc40-42de-b953-d77110324c9e	Gendarmerie Nationale	Command	2009	N	2019-01-19	N
+d37e0d6b-9c1b-4027-ba36-2b5a8796bfd9	Légion de Gendarmerie (Gao)	Gendarmerie;Military	child	d0b6634d-cc40-42de-b953-d77110324c9e	Gendarmerie Nationale	Command	2010-12-31	Y	2018	N
+7bb42f92-b391-4b31-9818-41da63d2b657	Légion de Gendarmerie (Kayes)	Gendarmerie;Military	child	d0b6634d-cc40-42de-b953-d77110324c9e	Gendarmerie Nationale	Command	2015-04-30	N	2019-01-19	N
+9909d5ca-1509-4338-9d0f-f7f7c1bb8af3	Légion de Gendarmerie (Kidal)	Gendarmerie;Military	child	d0b6634d-cc40-42de-b953-d77110324c9e	Gendarmerie Nationale	Command	2010-12-31	Y	2019-01-19	N
+8f90827d-c022-4e87-9bfe-5c22a27dc537	Légion de Gendarmerie (Koulikoro)	Gendarmerie;Military	child	d0b6634d-cc40-42de-b953-d77110324c9e	Gendarmerie Nationale	Command	2010-12-31	Y	2019-01-19	N
+0b8d548c-592e-4e23-8638-dedb444968ed	Légion de Gendarmerie (Mopti)	Gendarmerie;Military	child	d0b6634d-cc40-42de-b953-d77110324c9e	Gendarmerie Nationale	Command	2016-08-02	N	2019-01-19	N
+cf989d97-6eb8-4c08-9b15-064f8aefd2ab	Légion de Gendarmerie (Ségou)	Gendarmerie;Military	child	d0b6634d-cc40-42de-b953-d77110324c9e	Gendarmerie Nationale	Command	2015-04-30	N	2019-01-19	N
+cffd226a-41ce-479e-82cc-7ad42facad2d	Légion de Gendarmerie (Sikasso)	Gendarmerie;Military	child	d0b6634d-cc40-42de-b953-d77110324c9e	Gendarmerie Nationale	Command	2019-01-15	N	2019-01-19	N
+66be9ba9-946a-43e5-a977-126409f8d208	Légion de Gendarmerie (Timbuktu)	Gendarmerie;Military	child	d0b6634d-cc40-42de-b953-d77110324c9e	Gendarmerie Nationale	Command	2015-07-03	N	2019-01-19	N
+6efcd74d-32a0-4b93-99e6-0f5af657370b	Ministère de la Défense et des Anciens Combattants	Military	child	1a64b83d-7767-4c6d-9474-6ee4ada1a8d8	Comité National pour le Salut du Peuple	Command	2020-08-18	Y	2020-09-01	Y
+6efcd74d-32a0-4b93-99e6-0f5af657370b	Ministère de la Défense et des Anciens Combattants	Military	child	4fac1035-4181-4b84-bb0b-dc08d840d631	Président de la République	Command	2010-05-	N	2020-08-18	E
+2b4a1f22-2dfa-471e-99b4-02d90a0ff2f4	Opération Badenko	Military	child	7b6dd432-6a19-4e5b-9c9b-ddd26ce21915	Forces Armées Maliennes	Command	2012-02-15	Y	2013-07-28	E
+f0354c3a-6e73-4d43-82f6-84221eddd191	Opération Dambé	Army;Military	child	7b6dd432-6a19-4e5b-9c9b-ddd26ce21915	Forces Armées Maliennes	Command	2017-01-05	Y	2020-01-29	E
+78ad02fc-1648-418b-aad0-8a89ee326111	Opération Dambé Secteur 5	Military	child	f0354c3a-6e73-4d43-82f6-84221eddd191	Opération Dambé	Command	2017-07-	N		N
+d6f843a0-ccef-4a9b-8269-e7f0e378c2ae	Opération Dambé Secteur 6	Military	child	f0354c3a-6e73-4d43-82f6-84221eddd191	Opération Dambé	Command	2019-08-06	N		N
+dadf5297-ac7e-404a-8bf8-e001512cb4b7	Opération Maliba	Military	child	7b6dd432-6a19-4e5b-9c9b-ddd26ce21915	Forces Armées Maliennes	Command	2013-07-29	Y		N
+25b641df-5af6-4f14-b45a-c47c20a41f90	Opération Maliko	Military	child	7b6dd432-6a19-4e5b-9c9b-ddd26ce21915	Forces Armées Maliennes	Command	2020-01-30	Y		Y
+0bf82fa8-87aa-47ab-9be0-2489927b67ee	Opération Maliko Secteur 1	Military	child	ae62a13a-7730-4218-820d-fea7ac9df18c	Théâtre Est (Opération Maliko)	Command	2020-04-17	N		Y
+638a6b36-80c8-4a86-ad13-fe3742e9c01f	Opération Maliko Secteur 3	Military	child	6672addd-6b09-4388-b3f4-b9d13f4d14e2	Théâtre Centre (Opération Maliko)	Command	2020-07-30	N	2020-08-01	Y
+47663135-6cf4-492a-a7f0-bffffc6eae68	Opération Maliko Secteur 4	Military	child	6672addd-6b09-4388-b3f4-b9d13f4d14e2	Théâtre Centre (Opération Maliko)	Command	2020-06-03	N		Y
+4f4ec723-43e8-4c7a-8472-33c750598e9c	Opération Maliko Secteur 5	Military	child	6672addd-6b09-4388-b3f4-b9d13f4d14e2	Théâtre Centre (Opération Maliko)	Command	2021-02-14	N		Y
+787a313d-4e85-48d1-9eab-0cccb557f243	Opération Maliko Secteur 6	Military	child	acefe622-47e9-4ef0-a145-cda7b0c41951	Unknown Théâtre (Opération Maliko)	Command	2020-09-03	N	2020-12-07	Y
+6d02bdf7-1daf-40a2-8693-215d572f7cfb	Peloton de la Garde Nationale (Diema)	National Guard;Military	child	c50112cd-9644-40bf-a49d-2c200d7b91a3	Unknown Compagnie Territorale (Garde Nationale)	Command	2015-04-30	N		Y
+f6368d25-dd72-4475-9a92-01ee2de5c8b2	Peloton de la Garde Nationale (Dioïla)	National Guard;Military	child	c50112cd-9644-40bf-a49d-2c200d7b91a3	Unknown Compagnie Territorale (Garde Nationale)	Command	2015-04-30	N		Y
+3dac4838-cd0c-4031-9c71-41f64b1cd86e	Peloton de la Garde Nationale (Diré)	National Guard;Military	child	c50112cd-9644-40bf-a49d-2c200d7b91a3	Unknown Compagnie Territorale (Garde Nationale)	Command	2015-04-30	N		Y
+eb72f003-2387-4fb3-8658-677ce051be22	Peloton de la Garde Nationale (Djenné)	National Guard;Military	child	c50112cd-9644-40bf-a49d-2c200d7b91a3	Unknown Compagnie Territorale (Garde Nationale)	Command	2015-04-30	N		Y
+590e1e3b-b8ac-4a2b-b8aa-b1049f3d4f5a	Peloton de la Garde Nationale (Goundam)	National Guard;Military	child	c50112cd-9644-40bf-a49d-2c200d7b91a3	Unknown Compagnie Territorale (Garde Nationale)	Command	2015-07-08	N		Y
+45640813-732f-4919-8b8b-27ad552dbd46	Peloton de la Garde Nationale (Kadiolo)	National Guard;Military	child	c50112cd-9644-40bf-a49d-2c200d7b91a3	Unknown Compagnie Territorale (Garde Nationale)	Command	2015-04-30	N		Y
+a2add7e1-9f2f-4678-abe4-2aa344fad211	Peloton de la Garde Nationale (Kolokani)	National Guard;Military	child	c50112cd-9644-40bf-a49d-2c200d7b91a3	Unknown Compagnie Territorale (Garde Nationale)	Command	2019-11-19	N		Y
+1aa380bc-3e4e-4075-ac2e-0839d32bbfff	Peloton de la Garde Nationale (Kolondieba)	National Guard;Military	child	c50112cd-9644-40bf-a49d-2c200d7b91a3	Unknown Compagnie Territorale (Garde Nationale)	Command	2015-04-30	N		Y
+f0f01f15-2c96-467f-8599-340f985c94ec	Peloton de la Garde Nationale (Koro)	National Guard;Military	child	c50112cd-9644-40bf-a49d-2c200d7b91a3	Unknown Compagnie Territorale (Garde Nationale)	Command	2015-04-30	N		Y
+6e73bec3-f771-4324-9b12-c0e828794745	Peloton de la Garde Nationale (Mondoro-Habe)	National Guard;Military	child	c50112cd-9644-40bf-a49d-2c200d7b91a3	Unknown Compagnie Territorale (Garde Nationale)	Command	2019	N		Y
+7e4bcb1e-1b08-424a-ba4c-4ad8043faff8	Peloton de la Garde Nationale (Tenenkou)	National Guard;Military	child	c50112cd-9644-40bf-a49d-2c200d7b91a3	Unknown Compagnie Territorale (Garde Nationale)	Command	2015-04-30	N		Y
+e59932cf-bfab-4109-aea9-1b1bf323329f	Peloton de la Garde Nationale (Youwarou)	National Guard;Military	child	c50112cd-9644-40bf-a49d-2c200d7b91a3	Unknown Compagnie Territorale (Garde Nationale)	Command	2017-05-31	N		Y
+4c859181-6e63-4d65-8571-04b430601c20	Peloton de surveillance et d'intervention (Légion de Gendarmerie Bamako)	Gendarmerie;Military	child	bb9da833-8334-4e66-a53e-de40e589dd15	Légion de Gendarmerie (Bamako)	Command	2017-10-09	Y		Y
+9cfea1e9-cc20-49e3-8226-3dc9f69dff94	Peloton de surveillance et d'intervention (Légion de Gendarmerie Gao)	Gendarmerie;Military	child	d37e0d6b-9c1b-4027-ba36-2b5a8796bfd9	Légion de Gendarmerie (Gao)	Command	2017-10-09	Y		Y
+23edb94b-fbd5-4b66-b086-59ef1325feeb	Peloton de surveillance et d'intervention (Légion de Gendarmerie Kayes)	Gendarmerie;Military	child	7bb42f92-b391-4b31-9818-41da63d2b657	Légion de Gendarmerie (Kayes)	Command	2017-10-09	Y		Y
+d09fb20d-bf9a-4ddf-94f4-64be69ca6efc	Peloton de surveillance et d'intervention (Légion de Gendarmerie Kidal)	Gendarmerie;Military	child	9909d5ca-1509-4338-9d0f-f7f7c1bb8af3	Légion de Gendarmerie (Kidal)	Command	2017-10-09	Y		Y
+2aa02ce4-fea3-42cf-8ceb-96eb57c4b8d6	Peloton de surveillance et d'intervention (Légion de Gendarmerie Koulikoro)	Gendarmerie;Military	child	8f90827d-c022-4e87-9bfe-5c22a27dc537	Légion de Gendarmerie (Koulikoro)	Command	2017-10-09	Y		Y
+faf4f343-47c4-4fb1-b361-d16e0b66dd37	Peloton de surveillance et d'intervention (Légion de Gendarmerie Mopti)	Gendarmerie;Military	child	0b8d548c-592e-4e23-8638-dedb444968ed	Légion de Gendarmerie (Mopti)	Command	2017-10-09	Y		Y
+39d82c19-bcb8-4d73-9490-b692bfd04499	Peloton de surveillance et d'intervention (Légion de Gendarmerie Ségou)	Gendarmerie;Military	child	cf989d97-6eb8-4c08-9b15-064f8aefd2ab	Légion de Gendarmerie (Ségou)	Command	2017-10-09	Y		Y
+625fffb9-be36-4cd9-866b-0a54e2372e2a	Peloton de surveillance et d'intervention (Légion de Gendarmerie Sikasso)	Gendarmerie;Military	child	cffd226a-41ce-479e-82cc-7ad42facad2d	Légion de Gendarmerie (Sikasso)	Command	2017-10-09	Y		Y
+4d0e483a-1406-44fd-91bb-64e9f56eb423	Peloton de surveillance et d'intervention (Légion de Gendarmerie Timbuktu)	Gendarmerie;Military	child	66be9ba9-946a-43e5-a977-126409f8d208	Légion de Gendarmerie (Timbuktu)	Command	2017-10-09	Y		Y
+254578f8-b26f-494b-bc3e-72388d825047	Peloton Permanent de la Garde Nationale (Kati)	National Guard;Military	child	c50112cd-9644-40bf-a49d-2c200d7b91a3	Unknown Compagnie Territorale (Garde Nationale)	Command	2019-08-20	Y		Y
+ccd1b0b4-1543-4e2d-b414-a237092d06e9	Peloton Permanent de la Garde Nationale (Tominian)	National Guard;Military	child	c50112cd-9644-40bf-a49d-2c200d7b91a3	Unknown Compagnie Territorale (Garde Nationale)	Command	2015-04-30	N		Y
+20ee9863-043c-4a6b-ba4c-230698b97940	Pelotonde la Garde Nationale (Bandiagara)	National Guard;Military	child	c50112cd-9644-40bf-a49d-2c200d7b91a3	Unknown Compagnie Territorale (Garde Nationale)	Command	2015-04-30	N		Y
+e034327b-9621-4f40-989d-00ae9fdb94bb	Région de Gendarmerie (Bamako)	Gendarmerie;Military	child	d0b6634d-cc40-42de-b953-d77110324c9e	Gendarmerie Nationale	Command	2019-05-29	Y		Y
+0941398a-ced1-4e0a-b475-896dbb57ce69	Région de Gendarmerie (Gao)	Gendarmerie;Military	child	d0b6634d-cc40-42de-b953-d77110324c9e	Gendarmerie Nationale	Command	2019-05-29	Y		Y
+34137b83-693d-4e8b-84fb-acd486bf5e60	Région de Gendarmerie (Mopti)	Gendarmerie;Military	child	d0b6634d-cc40-42de-b953-d77110324c9e	Gendarmerie Nationale	Command	2019-05-29	Y		Y
+74b1ebd1-1df5-4ecc-871b-d7cfcd5ccffe	Région de Gendarmerie (Ségou)	Gendarmerie;Military	child	d0b6634d-cc40-42de-b953-d77110324c9e	Gendarmerie Nationale	Command	2019-05-29	Y		Y
+a980c55a-2502-4c77-88b2-66316c19c543	Second Unnamed Groupement d’Intervention Rapide	National Guard;Military	child	af7888d6-e892-417b-8d09-b197ab071d99	Garde Nationale	Command	2018-02-	N		Y
+199494bd-0f7c-4856-97bd-6efbffd372dd	Secteur Centre	Peacekeeping	child	9c6d621a-4774-44fd-88e0-089475f19360	Mission multidimensionnelle intégrée des Nations Unies pour la stabilisation au Mali	Command	2020-09-	N		Y
+62061ef7-7d3d-4fde-b29b-95d11e7b6aa0	Secteur Est	Peacekeeping	child	9c6d621a-4774-44fd-88e0-089475f19360	Mission multidimensionnelle intégrée des Nations Unies pour la stabilisation au Mali	Command	2020-09-	N		Y
+1e39af8a-4b1b-4258-995e-831dd91dec74	Secteur Nord	Peacekeeping	child	9c6d621a-4774-44fd-88e0-089475f19360	Mission multidimensionnelle intégrée des Nations Unies pour la stabilisation au Mali	Command	2020-09-	N		Y
+e1129681-d051-406c-b054-d2539be3ece5	Secteur Ouest	Peacekeeping	child	9c6d621a-4774-44fd-88e0-089475f19360	Mission multidimensionnelle intégrée des Nations Unies pour la stabilisation au Mali	Command	2020-09-	N		Y
+76da3e32-1ed3-480e-87ed-c0cbb61234dc	Secteur Sud	Peacekeeping	child	9c6d621a-4774-44fd-88e0-089475f19360	Mission multidimensionnelle intégrée des Nations Unies pour la stabilisation au Mali	Command	2020-09-	N		Y
+1d735ef4-9a9f-41ee-97e9-dc3279676b3b	Théâtre Centre (Opération Dambé)	Military	child	f0354c3a-6e73-4d43-82f6-84221eddd191	Opération Dambé	Command	2019-03-08	Y	2020-01-29	E
+6672addd-6b09-4388-b3f4-b9d13f4d14e2	Théâtre Centre (Opération Maliko)	Military	child	25b641df-5af6-4f14-b45a-c47c20a41f90	Opération Maliko	Command	2020-01-30	Y	2021-02-14	Y
+dfccbfaa-b34b-4ec8-a56e-9384619bca37	Théâtre Est (Opération Dambé)	Military	child	f0354c3a-6e73-4d43-82f6-84221eddd191	Opération Dambé	Command	2019-03-08	Y	2020-01-29	E
+ae62a13a-7730-4218-820d-fea7ac9df18c	Théâtre Est (Opération Maliko)	Military	child	25b641df-5af6-4f14-b45a-c47c20a41f90	Opération Maliko	Command	2020-01-30	Y		Y
+c50112cd-9644-40bf-a49d-2c200d7b91a3	Unknown Compagnie Territorale (Garde Nationale)	National Guard;Military	child	2f246a1b-7063-4684-93e0-d9e121d6b054	Unknown Groupement Territoriale (Garde Nationale)	Command	2015-04-30	N	2019	Y
+13ade254-a92f-4be8-827d-a890f20f246a	Unknown Compagnie Territoriale	Gendarmerie;Military;Placeholder	child	e9bf2b47-a277-4048-a2ab-ef57554dedeb	Unknown Groupement Territoriale	Command	1963-04-	N	2020-07-25	Y
+26b3dc7c-e565-4963-8e7a-22172e1e3243	Unknown Groupement Mobile Nationale)	National Guard;Military	child	af7888d6-e892-417b-8d09-b197ab071d99	Garde Nationale	Command	2018-02-	N		Y
+e9bf2b47-a277-4048-a2ab-ef57554dedeb	Unknown Groupement Territoriale	Gendarmerie;Military;Placeholder	child	8809a207-f031-4681-8eac-d291e731013b	Unknown Région de Gendarmerie	Command	2019-05-29	Y	2020-07-25	Y
+e9bf2b47-a277-4048-a2ab-ef57554dedeb	Unknown Groupement Territoriale	Gendarmerie;Military;Placeholder	child	0cadaa9b-a38c-4ffb-9272-3fa0ccca42a8	Unknown Légion de Gendarmerie	Command	1963-04-	N	2019-05-28	E
+2f246a1b-7063-4684-93e0-d9e121d6b054	Unknown Groupement Territoriale (Garde Nationale)	National Guard;Military	child	af7888d6-e892-417b-8d09-b197ab071d99	Garde Nationale	Command	2018-02-	N		Y
+0cadaa9b-a38c-4ffb-9272-3fa0ccca42a8	Unknown Légion de Gendarmerie	Gendarmerie;Military;Placeholder	child	d0b6634d-cc40-42de-b953-d77110324c9e	Gendarmerie Nationale	Command	1963-04-	N	2019-05-28	E
+f71fe3e9-a1d4-40de-a2d9-b3b619d510e9	Unknown Régiment	Army;Military;Placeholder	child	edc10df6-4aac-4077-96d1-e66ff37500f1	Unknown Région Militaire	Command	1997	N		N
+6393aa1d-66d6-44c9-b41a-2038ed94a7e0	Unknown Régiment (1 Région Militaire)	Army;Military;Placeholder	child	7214a59a-43b5-4406-9a2f-42487a7ffc2a	1 Région Militaire	Command	2006-09-01	N		N
+1e5e4bc9-1d35-438e-89fc-17fb24d38aa4	Unknown Régiment (2 Région Militaire)	Army;Military;Placeholder	child	48713a8a-cbf0-494f-a0e6-6902e9d6db50	2 Région Militaire	Command	1993-08-01	N	2017-05-02	N
+3637ab1e-85a9-409b-b1a8-fcb54a8ecee6	Unknown Régiment (3 Région Militaire)	Army;Military;Placeholder	child	cd3fb3e8-355c-47c4-a47d-9e1ee1cabfc9	3 Région Militaire	Command	2009-04-14	N	2018-08-30	N
+39853f07-8559-46d0-98e9-d58ebbc06475	Unknown Régiment (4 Région Militaire)	Army;Military;Placeholder	child	3773c0fe-2026-4d10-917e-da37e675c58e	4 Région Militaire	Command	1994	N	2011-06-17	N
+b17224db-45fc-4cb1-b568-3035e9517a11	Unknown Régiment (5 Région Militaire)	Army;Military;Placeholder	child	a4eee7cc-b4f3-4e91-be52-885367f6409f	5 Région Militaire	Command	2014-08-18	N	2020-05-	N
+3f4076b8-097a-4967-bcf9-7ad2736dd650	Unknown Régiment (6 Région Militaire)	Army;Military;Placeholder	child	7e0d5691-9ffa-4058-8dbb-ed0473e8329d	6 Région Militaire	Command	1999	N		N
+aff36d72-de70-4532-bcc8-3a7108b9d19c	Unknown Régiment (7 Région Militaire)	Army;Military;Placeholder	child	07f598aa-5bde-48cd-913b-9b0b59d7347e	7 Région Militaire	Command	2014-08-18	N	2014-08-21	N
+4abb86d7-cba2-4d3b-b47a-fadb0ed4cafe	Unknown Régiment (8 Région Militaire)	Army;Military;Placeholder	child	9dd53a4a-f279-458d-b843-fe24ec6a0b7f	8 Région Militaire	Command	2014-08-18	N	2018-06-15	N
+8809a207-f031-4681-8eac-d291e731013b	Unknown Région de Gendarmerie	Gendarmerie;Military;Placeholder	child	d0b6634d-cc40-42de-b953-d77110324c9e	Gendarmerie Nationale	Command	2019-05-29	Y	2020-07-25	Y
+edc10df6-4aac-4077-96d1-e66ff37500f1	Unknown Région Militaire	Army;Military;Placeholder	child	e2de48e7-59e7-4a1d-922e-2859d3c77151	Armée de Terre	Command	2008	N	2010	N
+acefe622-47e9-4ef0-a145-cda7b0c41951	Unknown Théâtre (Opération Maliko)	Military	child	25b641df-5af6-4f14-b45a-c47c20a41f90	Opération Maliko	Command	2020-01-30	Y		Y

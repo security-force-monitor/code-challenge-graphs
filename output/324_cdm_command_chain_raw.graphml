@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="edge_label" attr.type="string" />
+  <key id="d0" for="node" attr.name="node_label" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="1a64b83d-7767-4c6d-9474-6ee4ada1a8d8">
+      <data key="d0">Comité National pour le Salut du Peuple</data>
+    </node>
+    <node id="4fac1035-4181-4b84-bb0b-dc08d840d631">
+      <data key="d0">Président de la République</data>
+    </node>
+    <node id="cd3fb3e8-355c-47c4-a47d-9e1ee1cabfc9">
+      <data key="d0">3 Région Militaire</data>
+    </node>
+    <node id="aaeb6dc4-9011-42a5-b392-262ea5faff59">
+      <data key="d0">32 Régiment d’Infanterie Motorisée</data>
+    </node>
+    <node id="45bb4fae-5f2d-4790-b512-955d43cfb9a6">
+      <data key="d0">324 Compagnie d’Infanterie Motorisée</data>
+    </node>
+    <node id="e2de48e7-59e7-4a1d-922e-2859d3c77151">
+      <data key="d0">Armée de Terre</data>
+    </node>
+    <node id="7b6dd432-6a19-4e5b-9c9b-ddd26ce21915">
+      <data key="d0">Forces Armées Maliennes</data>
+    </node>
+    <node id="6efcd74d-32a0-4b93-99e6-0f5af657370b">
+      <data key="d0">Ministère de la Défense et des Anciens Combattants</data>
+    </node>
+    <edge source="1a64b83d-7767-4c6d-9474-6ee4ada1a8d8" target="6efcd74d-32a0-4b93-99e6-0f5af657370b">
+      <data key="d1">2020-08-18 (Y) to 2020-09-01 (Y)</data>
+    </edge>
+    <edge source="4fac1035-4181-4b84-bb0b-dc08d840d631" target="6efcd74d-32a0-4b93-99e6-0f5af657370b">
+      <data key="d1">2010-05- (N) to 2020-08-18 (E)</data>
+    </edge>
+    <edge source="cd3fb3e8-355c-47c4-a47d-9e1ee1cabfc9" target="aaeb6dc4-9011-42a5-b392-262ea5faff59">
+      <data key="d1">2016-08-31 (N) to 2018-07-12 (Y)</data>
+    </edge>
+    <edge source="aaeb6dc4-9011-42a5-b392-262ea5faff59" target="45bb4fae-5f2d-4790-b512-955d43cfb9a6">
+      <data key="d1">2020-12-19 (N) to None (N)</data>
+    </edge>
+    <edge source="e2de48e7-59e7-4a1d-922e-2859d3c77151" target="cd3fb3e8-355c-47c4-a47d-9e1ee1cabfc9">
+      <data key="d1">2009-03-04 (N) to 2018-07-12 (Y)</data>
+    </edge>
+    <edge source="7b6dd432-6a19-4e5b-9c9b-ddd26ce21915" target="e2de48e7-59e7-4a1d-922e-2859d3c77151">
+      <data key="d1">2010-05- (N) to 2018-02- (Y)</data>
+    </edge>
+    <edge source="6efcd74d-32a0-4b93-99e6-0f5af657370b" target="7b6dd432-6a19-4e5b-9c9b-ddd26ce21915">
+      <data key="d1">2010-05- (N) to 2017- (Y)</data>
+    </edge>
+  </graph>
+</graphml>
